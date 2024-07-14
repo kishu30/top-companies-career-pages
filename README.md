@@ -4,670 +4,670 @@ This is a list of companies worldwide along with their career page URLs.
 
 ### A
 
-- **1mg**: [Career Page](https://www.1mg.com/jobs)
-- **314e Corporation**: [Career Page](https://www.314e.com/company/job-openings/)
-- **3i Infotech**: [Career Page](https://www.3i-infotech.com/careers/)
-- **[24]7.ai**: [Career Page](https://www.247.ai/company/careers)
-- **Acaira**: [Career Page](https://www.acaira.com/career)
-- **Accenture**: [Career Page](https://www.accenture.com/us-en/careers)
-- **Accolite software**: [Career Page](https://www.accolite.com/careers/)
-- **Accord software**: [Career Page](https://www.accord-soft.com/career.php)
-- **Acko**: [Career Page](https://www.acko.com/careers)
-- **Adobe**: [Career Page](https://www.adobe.com/careers.html)
-- **Agile Infoway**: [Career Page](https://www.agileinfoways.com/about-us/career/)
-- **Agnikul Cosmos**: [Career Page](https://www.agnikul.in/#/career)
-- **Airbase**: [Career Page](https://www.airbase.com/careers)
-- **Airbnb**: [Career Page](https://www.airbnb.com/careers)
-- **AirGarage**: [Career Page](https://www.airgarage.com/careers)
-- **Airtel x labs**: [Career Page](https://www.airtel.in/careers)
-- **Ajio**: [Career Page](https://www.ajio.com/ajio-careers)
-- **Akamai**: [Career Page](https://www.akamai.com/careers)
-- **Alibaba Group**: [Career Page](https://www.alibabagroup.com/en-US/careers)
-- **Alphabet Inc**: [Career Page](https://careers.google.com/)
-- **Alstom**: [Career Page](https://www.alstom.com/careers)
-- **Amadeus labs**: [Career Page](https://careers.amadeus.com/)
-- **Amazon**: [Career Page](https://www.amazon.jobs/en/)
-- **Amdocs**: [Career Page](https://jobs.amdocs.com/)
-- **American express**: [Career Page](https://www.americanexpress.com/en-us/careers/)
-- **Amway**: [Career Page](https://www.amwayglobal.com/jobs/)
-- **Apex Technology**: [Career Page](https://www.apextgi.in/career.php)
-- **Apna**: [Career Page](https://careers.apna.co/)
-- **App Dynamics**: [Career Page](https://www.appdynamics.com/company/careers/)
-- **Appen**: [Career Page](https://appen.com/careers/)
-- **AppInventiv**: [Career Page](https://appinventiv.com/careers)
-- **Apple**: [Career Page](https://www.apple.com/jobs/)
-- **Aptiv**: [Career Page](https://www.aptiv.com/careers)
-- **Arcesium**: [Career Page](https://www.arcesium.com/careers)
-- **Ardentisys**: [Career Page](https://www.ardentisys.com/careers/)
-- **Arista Networks**: [Career Page](https://www.arista.com/en/careers)
-- **Ark Info**: [Career Page](https://www.arkinfo.in/careers)
-- **Aryaka networks**: [Career Page](https://www.aryaka.com/careers/)
-- **Asteria Aerospace Ltd**: [Career Page](https://www.asteria.co.in/careers)
-- **Athena Health**: [Career Page](https://www.athenahealth.com/careers)
-- **Ather Energy**: [Career Page](https://www.atherenergy.com/careers)
-- **Atlan**: [Career Page](https://atlan.com/careers)
-- **Atlassian**: [Career Page](https://www.atlassian.com/company/careers)
-- **Atos**: [Career Page](https://atos.net/en/careers)
-- **Aujas**: [Career Page](https://www.aujas.com/aujas-careers)
-- **Avaya**: [Career Page](https://www.avaya.com/en/careers/)
+- **1mg**: [Career Page]<a href=https://www.1mg.com/jobs  target="_blank">Career Page</a>
+- **314e Corporation**: [Career Page]<a href=https://www.314e.com/company/job-openings/  target="_blank">Career Page</a>
+- **3i Infotech**: [Career Page]<a href=https://www.3i-infotech.com/careers/  target="_blank">Career Page</a>
+- **[24]7.ai**: [Career Page]<a href=https://www.247.ai/company/careers  target="_blank">Career Page</a>
+- **Acaira**: [Career Page]<a href=https://www.acaira.com/career  target="_blank">Career Page</a>
+- **Accenture**: [Career Page]<a href=https://www.accenture.com/us-en/careers  target="_blank">Career Page</a>
+- **Accolite software**: [Career Page]<a href=https://www.accolite.com/careers/  target="_blank">Career Page</a>
+- **Accord software**: [Career Page]<a href=https://www.accord-soft.com/career.php  target="_blank">Career Page</a>
+- **Acko**: [Career Page]<a href=https://www.acko.com/careers  target="_blank">Career Page</a>
+- **Adobe**: [Career Page]<a href=https://www.adobe.com/careers.html  target="_blank">Career Page</a>
+- **Agile Infoway**: [Career Page]<a href=https://www.agileinfoways.com/about-us/career/  target="_blank">Career Page</a>
+- **Agnikul Cosmos**: [Career Page]<a href=https://www.agnikul.in/#/career  target="_blank">Career Page</a>
+- **Airbase**: [Career Page]<a href=https://www.airbase.com/careers  target="_blank">Career Page</a>
+- **Airbnb**: [Career Page]<a href=https://www.airbnb.com/careers  target="_blank">Career Page</a>
+- **AirGarage**: [Career Page]<a href=https://www.airgarage.com/careers  target="_blank">Career Page</a>
+- **Airtel x labs**: [Career Page]<a href=https://www.airtel.in/careers  target="_blank">Career Page</a>
+- **Ajio**: [Career Page]<a href=https://www.ajio.com/ajio-careers  target="_blank">Career Page</a>
+- **Akamai**: [Career Page]<a href=https://www.akamai.com/careers  target="_blank">Career Page</a>
+- **Alibaba Group**: [Career Page]<a href=https://www.alibabagroup.com/en-US/careers  target="_blank">Career Page</a>
+- **Alphabet Inc**: [Career Page]<a href=https://careers.google.com/  target="_blank">Career Page</a>
+- **Alstom**: [Career Page]<a href=https://www.alstom.com/careers  target="_blank">Career Page</a>
+- **Amadeus labs**: [Career Page]<a href=https://careers.amadeus.com/  target="_blank">Career Page</a>
+- **Amazon**: [Career Page]<a href=https://www.amazon.jobs/en/  target="_blank">Career Page</a>
+- **Amdocs**: [Career Page]<a href=https://jobs.amdocs.com/  target="_blank">Career Page</a>
+- **American express**: [Career Page]<a href=https://www.americanexpress.com/en-us/careers/  target="_blank">Career Page</a>
+- **Amway**: [Career Page]<a href=https://www.amwayglobal.com/jobs/  target="_blank">Career Page</a>
+- **Apex Technology**: [Career Page]<a href=https://www.apextgi.in/career.php  target="_blank">Career Page</a>
+- **Apna**: [Career Page]<a href=https://careers.apna.co/  target="_blank">Career Page</a>
+- **App Dynamics**: [Career Page]<a href=https://www.appdynamics.com/company/careers/  target="_blank">Career Page</a>
+- **Appen**: [Career Page]<a href=https://appen.com/careers/  target="_blank">Career Page</a>
+- **AppInventiv**: [Career Page]<a href=https://appinventiv.com/careers  target="_blank">Career Page</a>
+- **Apple**: [Career Page]<a href=https://www.apple.com/jobs/  target="_blank">Career Page</a>
+- **Aptiv**: [Career Page]<a href=https://www.aptiv.com/careers  target="_blank">Career Page</a>
+- **Arcesium**: [Career Page]<a href=https://www.arcesium.com/careers  target="_blank">Career Page</a>
+- **Ardentisys**: [Career Page]<a href=https://www.ardentisys.com/careers/  target="_blank">Career Page</a>
+- **Arista Networks**: [Career Page]<a href=https://www.arista.com/en/careers  target="_blank">Career Page</a>
+- **Ark Info**: [Career Page]<a href=https://www.arkinfo.in/careers  target="_blank">Career Page</a>
+- **Aryaka networks**: [Career Page]<a href=https://www.aryaka.com/careers/  target="_blank">Career Page</a>
+- **Asteria Aerospace Ltd**: [Career Page]<a href=https://www.asteria.co.in/careers  target="_blank">Career Page</a>
+- **Athena Health**: [Career Page]<a href=https://www.athenahealth.com/careers  target="_blank">Career Page</a>
+- **Ather Energy**: [Career Page]<a href=https://www.atherenergy.com/careers  target="_blank">Career Page</a>
+- **Atlan**: [Career Page]<a href=https://atlan.com/careers  target="_blank">Career Page</a>
+- **Atlassian**: [Career Page]<a href=https://www.atlassian.com/company/careers  target="_blank">Career Page</a>
+- **Atos**: [Career Page]<a href=https://atos.net/en/careers  target="_blank">Career Page</a>
+- **Aujas**: [Career Page]<a href=https://www.aujas.com/aujas-careers  target="_blank">Career Page</a>
+- **Avaya**: [Career Page]<a href=https://www.avaya.com/en/careers/  target="_blank">Career Page</a>
 
 ### B
 
-- **Bacancy Technology**: [Career Page](https://www.bacancytechnology.com/career)
-- **Bain & Co**: [Career Page](https://www.bain.com/careers/)
-- **BankBazar**: [Career Page](https://www.bankbazaar.com/careers.html)
-- **BARC India**: [Career Page](https://www.barcindia.co.in/life-at-barc)
-- **Barclays**: [Career Page](https://home.barclays/careers/)
-- **Bazaarvoice**: [Career Page](https://www.bazaarvoice.com/company/careers/)
-- **Better**: [Career Page](https://better.com/careers/)
-- **BharatPe**: [Career Page](https://bharatpe.com/careers/)
-- **BigBasket**: [Career Page](https://www.bigbasket.com/careers/)
-- **Biocon**: [Career Page](https://www.biocon.com/careers/)
-- **Bitrix Infotech**: [Career Page](https://bitrixinfotech.com/career)
-- **BlackBuck**: [Career Page](https://www.blackbuck.com/careers)
-- **Blackrock**: [Career Page](https://www.blackrock.com/corporate/careers)
-- **Blizzard Entertainment**: [Career Page](https://careers.blizzard.com/en-us/)
-- **Bloomberg L.P.**: [Career Page](https://www.bloomberg.com/careers/)
-- **Bluestacks**: [Career Page](https://www.bluestacks.com/work-at-bluestacks.html)
-- **BMC Software**: [Career Page](https://www.bmc.com/careers.html)
-- **BNY Mellon**: [Career Page](https://www.bnymellon.com/us/en/careers/index.jsp)
-- **Boeing**: [Career Page](https://www.boeing.com/careers/)
-- **Booking.com**: [Career Page](https://careers.booking.com/)
-- **Bosch**: [Career Page](https://www.bosch.com/careers/)
-- **BPL India**: [Career Page](https://www.bplindia.in/careers.html)
-- **Brooklinen**: [Career Page](https://www.brooklinen.com/pages/careers)
-- **BrowserStack**: [Career Page](https://www.browserstack.com/careers)
-- **BYJU’S**: [Career Page](https://byjus.com/careers/)
-- **ByteDance**: [Career Page](https://bytedance.com/careers)
-- **Byteridge**: [Career Page](https://www.byteridge.com/careers)
+- **Bacancy Technology**: [Career Page]<a href=https://www.bacancytechnology.com/career  target="_blank">Career Page</a>
+- **Bain & Co**: [Career Page]<a href=https://www.bain.com/careers/  target="_blank">Career Page</a>
+- **BankBazar**: [Career Page]<a href=https://www.bankbazaar.com/careers.html  target="_blank">Career Page</a>
+- **BARC India**: [Career Page]<a href=https://www.barcindia.co.in/life-at-barc  target="_blank">Career Page</a>
+- **Barclays**: [Career Page]<a href=https://home.barclays/careers/  target="_blank">Career Page</a>
+- **Bazaarvoice**: [Career Page]<a href=https://www.bazaarvoice.com/company/careers/  target="_blank">Career Page</a>
+- **Better**: [Career Page]<a href=https://better.com/careers/  target="_blank">Career Page</a>
+- **BharatPe**: [Career Page]<a href=https://bharatpe.com/careers/  target="_blank">Career Page</a>
+- **BigBasket**: [Career Page]<a href=https://www.bigbasket.com/careers/  target="_blank">Career Page</a>
+- **Biocon**: [Career Page]<a href=https://www.biocon.com/careers/  target="_blank">Career Page</a>
+- **Bitrix Infotech**: [Career Page]<a href=https://bitrixinfotech.com/career  target="_blank">Career Page</a>
+- **BlackBuck**: [Career Page]<a href=https://www.blackbuck.com/careers  target="_blank">Career Page</a>
+- **Blackrock**: [Career Page]<a href=https://www.blackrock.com/corporate/careers  target="_blank">Career Page</a>
+- **Blizzard Entertainment**: [Career Page]<a href=https://careers.blizzard.com/en-us/  target="_blank">Career Page</a>
+- **Bloomberg L.P.**: [Career Page]<a href=https://www.bloomberg.com/careers/  target="_blank">Career Page</a>
+- **Bluestacks**: [Career Page]<a href=https://www.bluestacks.com/work-at-bluestacks.html  target="_blank">Career Page</a>
+- **BMC Software**: [Career Page]<a href=https://www.bmc.com/careers.html  target="_blank">Career Page</a>
+- **BNY Mellon**: [Career Page]<a href=https://www.bnymellon.com/us/en/careers/index.jsp  target="_blank">Career Page</a>
+- **Boeing**: [Career Page]<a href=https://www.boeing.com/careers/  target="_blank">Career Page</a>
+- **Booking.com**: [Career Page]<a href=https://careers.booking.com/  target="_blank">Career Page</a>
+- **Bosch**: [Career Page]<a href=https://www.bosch.com/careers/  target="_blank">Career Page</a>
+- **BPL India**: [Career Page]<a href=https://www.bplindia.in/careers.html  target="_blank">Career Page</a>
+- **Brooklinen**: [Career Page]<a href=https://www.brooklinen.com/pages/careers  target="_blank">Career Page</a>
+- **BrowserStack**: [Career Page]<a href=https://www.browserstack.com/careers  target="_blank">Career Page</a>
+- **BYJU’S**: [Career Page]<a href=https://byjus.com/careers/  target="_blank">Career Page</a>
+- **ByteDance**: [Career Page]<a href=https://bytedance.com/careers  target="_blank">Career Page</a>
+- **Byteridge**: [Career Page]<a href=https://www.byteridge.com/careers  target="_blank">Career Page</a>
 
 ### C
 
-- **Cadence**: [Career Page](https://www.cadence.com/content/cadence-www/global/en_US/home/company/careers.html)
-- **Cameo**: [Career Page](https://careers.cameo.com/)
-- **Capgemini**: [Career Page](https://www.capgemini.com/careers/)
-- **Capillary**: [Career Page](https://capillarytech.skillate.com/)
-- **Capita**: [Career Page](https://www.capita.com/careers)
-- **Capital Numbers**: [Career Page](https://www.capitalnumbers.com/careers.php)
-- **CarDekho**: [Career Page](https://careers.cardekho.com/)
-- **CarWale**: [Career Page](https://www.carwale.com/career/)
-- **CashFree**: [Career Page](https://www.cashfree.com/careers)
-- **Celigo**: [Career Page](https://www.celigo.com/careers/)
-- **Cerner**: [Career Page](https://www.cerner.com/careers)
-- **CGI Group**: [Career Page](https://www.cgi.com/en/careers)
-- **Chargebee**: [Career Page](https://www.chargebee.com/careers/)
-- **Chime**: [Career Page](https://www.chime.com/careers/)
-- **Chronus**: [Career Page](https://chronus.com/careers)
-- **Cimpress**: [Career Page](https://cimpress.com/careers)
-- **Cisco**: [Career Page](https://www.cisco.com/c/en/us/about/careers.html)
-- **CitiGroup**: [Career Page](https://careers.citigroup.com/)
-- **Clarion Technologies**: [Career Page](https://www.clariontech.com/careers)
-- **ClearTax**: [Career Page](https://cleartax.in/s/careers)
-- **ClearTrip**: [Career Page](https://careers.cleartrip.com/#!/)
-- **Cloudera**: [Career Page](https://www.cloudera.com/careers.html)
-- **CodingNinjas**: [Career Page](https://codingninjas.darwinbox.in/ms/candidate/careers)
-- **Cognizant**: [Career Page](https://careers.cognizant.com/)
-- **Cognologix**: [Career Page](https://careers.cognologix.com/jobs)
-- **Cohesity**: [Career Page](https://www.cohesity.com/careers/)
-- **CoinDCX**: [Career Page](https://careers.coindcx.com/)
-- **Coinswitch kuber**: [Career Page](https://recruiterflow.com/coinswitch/jobs)
-- **Collabera**: [Career Page](https://www.collabera.com/)
-- **Commvault**: [Career Page](https://www.commvault.com/careers)
-- **Confluent**: [Career Page](https://www.confluent.io/careers/)
-- **Continental**: [Career Page](https://www.continental.com/en/careers)
-- **COSGrid**: [Career Page](https://www.cosgrid.com/careers/)
-- **Cradlepoint**: [Career Page](https://cradlepoint.com/about-us/careers)
-- **CRED**: [Career Page](https://careers.cred.club/openings)
-- **Credit Suisse**: [Career Page](https://www.credit-suisse.com/about-us/en/careers.html)
-- **Crestron**: [Career Page](https://www.crestron.com/careers)
-- **Crowdstrike**: [Career Page](https://www.crowdstrike.com/careers/)
-- **CueMath**: [Career Page](https://cuemath.darwinbox.in/ms/candidate/careers)
-- **Cult.fit**: [Career Page](https://www.cure.fit/careers)
-- **Curology**: [Career Page](https://www.curology.com/careers)
-- **Cvent**: [Career Page](https://www.cvent.com/en/careers)
-- **Cybage**: [Career Page](https://www.cybage.com/careers/open-positions)
-- **Cygnet**: [Career Page](https://www.cygnet.one/careers/)
+- **Cadence**: [Career Page]<a href=https://www.cadence.com/content/cadence-www/global/en_US/home/company/careers.html  target="_blank">Career Page</a>
+- **Cameo**: [Career Page]<a href=https://careers.cameo.com/  target="_blank">Career Page</a>
+- **Capgemini**: [Career Page]<a href=https://www.capgemini.com/careers/  target="_blank">Career Page</a>
+- **Capillary**: [Career Page]<a href=https://capillarytech.skillate.com/  target="_blank">Career Page</a>
+- **Capita**: [Career Page]<a href=https://www.capita.com/careers  target="_blank">Career Page</a>
+- **Capital Numbers**: [Career Page]<a href=https://www.capitalnumbers.com/careers.php  target="_blank">Career Page</a>
+- **CarDekho**: [Career Page]<a href=https://careers.cardekho.com/  target="_blank">Career Page</a>
+- **CarWale**: [Career Page]<a href=https://www.carwale.com/career/  target="_blank">Career Page</a>
+- **CashFree**: [Career Page]<a href=https://www.cashfree.com/careers  target="_blank">Career Page</a>
+- **Celigo**: [Career Page]<a href=https://www.celigo.com/careers/  target="_blank">Career Page</a>
+- **Cerner**: [Career Page]<a href=https://www.cerner.com/careers  target="_blank">Career Page</a>
+- **CGI Group**: [Career Page]<a href=https://www.cgi.com/en/careers  target="_blank">Career Page</a>
+- **Chargebee**: [Career Page]<a href=https://www.chargebee.com/careers/  target="_blank">Career Page</a>
+- **Chime**: [Career Page]<a href=https://www.chime.com/careers/  target="_blank">Career Page</a>
+- **Chronus**: [Career Page]<a href=https://chronus.com/careers  target="_blank">Career Page</a>
+- **Cimpress**: [Career Page]<a href=https://cimpress.com/careers  target="_blank">Career Page</a>
+- **Cisco**: [Career Page]<a href=https://www.cisco.com/c/en/us/about/careers.html  target="_blank">Career Page</a>
+- **CitiGroup**: [Career Page]<a href=https://careers.citigroup.com/  target="_blank">Career Page</a>
+- **Clarion Technologies**: [Career Page]<a href=https://www.clariontech.com/careers  target="_blank">Career Page</a>
+- **ClearTax**: [Career Page]<a href=https://cleartax.in/s/careers  target="_blank">Career Page</a>
+- **ClearTrip**: [Career Page]<a href=https://careers.cleartrip.com/#!/  target="_blank">Career Page</a>
+- **Cloudera**: [Career Page]<a href=https://www.cloudera.com/careers.html  target="_blank">Career Page</a>
+- **CodingNinjas**: [Career Page]<a href=https://codingninjas.darwinbox.in/ms/candidate/careers  target="_blank">Career Page</a>
+- **Cognizant**: [Career Page]<a href=https://careers.cognizant.com/  target="_blank">Career Page</a>
+- **Cognologix**: [Career Page]<a href=https://careers.cognologix.com/jobs  target="_blank">Career Page</a>
+- **Cohesity**: [Career Page]<a href=https://www.cohesity.com/careers/  target="_blank">Career Page</a>
+- **CoinDCX**: [Career Page]<a href=https://careers.coindcx.com/  target="_blank">Career Page</a>
+- **Coinswitch kuber**: [Career Page]<a href=https://recruiterflow.com/coinswitch/jobs  target="_blank">Career Page</a>
+- **Collabera**: [Career Page]<a href=https://www.collabera.com/  target="_blank">Career Page</a>
+- **Commvault**: [Career Page]<a href=https://www.commvault.com/careers  target="_blank">Career Page</a>
+- **Confluent**: [Career Page]<a href=https://www.confluent.io/careers/  target="_blank">Career Page</a>
+- **Continental**: [Career Page]<a href=https://www.continental.com/en/careers  target="_blank">Career Page</a>
+- **COSGrid**: [Career Page]<a href=https://www.cosgrid.com/careers/  target="_blank">Career Page</a>
+- **Cradlepoint**: [Career Page]<a href=https://cradlepoint.com/about-us/careers  target="_blank">Career Page</a>
+- **CRED**: [Career Page]<a href=https://careers.cred.club/openings  target="_blank">Career Page</a>
+- **Credit Suisse**: [Career Page]<a href=https://www.credit-suisse.com/about-us/en/careers.html  target="_blank">Career Page</a>
+- **Crestron**: [Career Page]<a href=https://www.crestron.com/careers  target="_blank">Career Page</a>
+- **Crowdstrike**: [Career Page]<a href=https://www.crowdstrike.com/careers/  target="_blank">Career Page</a>
+- **CueMath**: [Career Page]<a href=https://cuemath.darwinbox.in/ms/candidate/careers  target="_blank">Career Page</a>
+- **Cult.fit**: [Career Page]<a href=https://www.cure.fit/careers  target="_blank">Career Page</a>
+- **Curology**: [Career Page]<a href=https://www.curology.com/careers  target="_blank">Career Page</a>
+- **Cvent**: [Career Page]<a href=https://www.cvent.com/en/careers  target="_blank">Career Page</a>
+- **Cybage**: [Career Page]<a href=https://www.cybage.com/careers/open-positions  target="_blank">Career Page</a>
+- **Cygnet**: [Career Page]<a href=https://www.cygnet.one/careers/  target="_blank">Career Page</a>
 
 ### D
 
-- **Daffodil Software**: [Career Page](https://www.daffodilsw.com/careers/)
-- **Databricks**: [Career Page](https://databricks.com/company/careers)
-- **Datadog**: [Career Page](https://www.datadoghq.com/careers/)
-- **Datamatics**: [Career Page](https://www.datamatics.com/human-resources)
-- **Dave**: [Career Page](https://www.dave.com/careers)
-- **DE Shaw**: [Career Page](https://www.deshaw.com/careers/)
-- **Delhivery**: [Career Page](https://www.delhivery.com/careers)
-- **Dell**: [Career Page](https://jobs.dell.com/)
-- **Deloitte**: [Career Page](https://apply.deloitte.com/careers/)
-- **Delta Air Lines**: [Career Page](https://www.delta.com/apac/en/careers/overview)
-- **Deutsche Bank**: [Career Page](https://www.db.com/careers/index_e.html)
-- **Dhruva Space**: [Career Page](https://www.dhruvaspace.com/careers)
-- **Dialpad**: [Career Page](https://www.dialpad.com/careers/)
-- **Diebold**: [Career Page](https://www.dieboldnixdorf.com/en-us/careers/)
-- **Directi**: [Career Page](https://careers.directi.com/)
-- **Discord**: [Career Page](https://discord.com/jobs)
-- **Disney**: [Career Page](https://jobs.disneycareers.com/)
-- **Dispatch**: [Career Page](https://www.dispatch.me/careers)
-- **Divvy Homes**: [Career Page](https://www.divvyhomes.com/careers)
-- **DP World**: [Career Page](https://www.dpworld.com/careers)
-- **Dream11**: [Career Page](https://www.dreamsports.group/careers/)
-- **DropBox**: [Career Page](https://www.dropbox.com/jobs)
-- **Druva**: [Career Page](https://www.druva.com/about/careers)
-- **Duck Creek Technologies**: [Career Page](https://www.duckcreek.com/careers)
-- **Dunzo**: [Career Page](https://www.dunzo.com/careers)
+- **Daffodil Software**: [Career Page]<a href=https://www.daffodilsw.com/careers/  target="_blank">Career Page</a>
+- **Databricks**: [Career Page]<a href=https://databricks.com/company/careers  target="_blank">Career Page</a>
+- **Datadog**: [Career Page]<a href=https://www.datadoghq.com/careers/  target="_blank">Career Page</a>
+- **Datamatics**: [Career Page]<a href=https://www.datamatics.com/human-resources  target="_blank">Career Page</a>
+- **Dave**: [Career Page]<a href=https://www.dave.com/careers  target="_blank">Career Page</a>
+- **DE Shaw**: [Career Page]<a href=https://www.deshaw.com/careers/  target="_blank">Career Page</a>
+- **Delhivery**: [Career Page]<a href=https://www.delhivery.com/careers  target="_blank">Career Page</a>
+- **Dell**: [Career Page]<a href=https://jobs.dell.com/  target="_blank">Career Page</a>
+- **Deloitte**: [Career Page]<a href=https://apply.deloitte.com/careers/  target="_blank">Career Page</a>
+- **Delta Air Lines**: [Career Page]<a href=https://www.delta.com/apac/en/careers/overview  target="_blank">Career Page</a>
+- **Deutsche Bank**: [Career Page]<a href=https://www.db.com/careers/index_e.html  target="_blank">Career Page</a>
+- **Dhruva Space**: [Career Page]<a href=https://www.dhruvaspace.com/careers  target="_blank">Career Page</a>
+- **Dialpad**: [Career Page]<a href=https://www.dialpad.com/careers/  target="_blank">Career Page</a>
+- **Diebold**: [Career Page]<a href=https://www.dieboldnixdorf.com/en-us/careers/  target="_blank">Career Page</a>
+- **Directi**: [Career Page]<a href=https://careers.directi.com/  target="_blank">Career Page</a>
+- **Discord**: [Career Page]<a href=https://discord.com/jobs  target="_blank">Career Page</a>
+- **Disney**: [Career Page]<a href=https://jobs.disneycareers.com/  target="_blank">Career Page</a>
+- **Dispatch**: [Career Page]<a href=https://www.dispatch.me/careers  target="_blank">Career Page</a>
+- **Divvy Homes**: [Career Page]<a href=https://www.divvyhomes.com/careers  target="_blank">Career Page</a>
+- **DP World**: [Career Page]<a href=https://www.dpworld.com/careers  target="_blank">Career Page</a>
+- **Dream11**: [Career Page]<a href=https://www.dreamsports.group/careers/  target="_blank">Career Page</a>
+- **DropBox**: [Career Page]<a href=https://www.dropbox.com/jobs  target="_blank">Career Page</a>
+- **Druva**: [Career Page]<a href=https://www.druva.com/about/careers  target="_blank">Career Page</a>
+- **Duck Creek Technologies**: [Career Page]<a href=https://www.duckcreek.com/careers  target="_blank">Career Page</a>
+- **Dunzo**: [Career Page]<a href=https://www.dunzo.com/careers  target="_blank">Career Page</a>
 
 ### E
 
-- **EA Games**: [Career Page](https://www.ea.com/careers)
-- **EBay**: [Career Page](https://jobs.ebayinc.com/us/en)
-- **Ericsson**: [Career Page](https://www.ericsson.com/en/careers)
-- **Eurofins**: [Career Page](https://www.eurofins.com/careers/)
-- **Expedia**: [Career Page](https://careers.expediagroup.com/jobs/)
-- **Experian**: [Career Page](https://www.experian.com/careers/)
-- **EY**: [Career Page](https://www.ey.com/en_us/careers)
+- **EA Games**: [Career Page]<a href=https://www.ea.com/careers  target="_blank">Career Page</a>
+- **EBay**: [Career Page]<a href=https://jobs.ebayinc.com/us/en  target="_blank">Career Page</a>
+- **Ericsson**: [Career Page]<a href=https://www.ericsson.com/en/careers  target="_blank">Career Page</a>
+- **Eurofins**: [Career Page]<a href=https://www.eurofins.com/careers/  target="_blank">Career Page</a>
+- **Expedia**: [Career Page]<a href=https://careers.expediagroup.com/jobs/  target="_blank">Career Page</a>
+- **Experian**: [Career Page]<a href=https://www.experian.com/careers/  target="_blank">Career Page</a>
+- **EY**: [Career Page]<a href=https://www.ey.com/en_us/careers  target="_blank">Career Page</a>
 
 ### F
 
-- **Facebook**: [Career Page](https://www.facebook.com/careers/)
-- **FamPay**: [Career Page](https://fampay.in/careers/)
-- **Fidelity investments**: [Career Page](https://jobs.fidelity.com/)
-- **Fingent**: [Career Page](https://www.fingent.com/careers)
-- **Fischer Jordan**: [Career Page](https://www.fischerjordan.com/careers)
-- **Fiserv**: [Career Page](https://www.fiserv.com/en/careers.html)
-- **Flatworld Solutions**: [Career Page](https://www.flatworldsolutions.com/careers/)
-- **Flexport**: [Career Page](https://www.flexport.com/careers)
-- **Flipkart**: [Career Page](https://www.flipkartcareers.com/#!/)
-- **Flock**: [Career Page](https://careers.flock.com/)
-- **Flytxt**: [Career Page](https://www.flytxt.com/careers)
-- **Fractal**: [Career Page](https://fractal.ai/job-opening-fractal-alpha/)
-- **Frappe Technologies**: [Career Page](https://frappe.io/careers)
-- **FreeCharge**: [Career Page](https://careers.freecharge.in/)
-- **Freshworks**: [Career Page](https://www.freshworks.com/company/careers/)
-- **Frugal Testing**: [Career Page](https://frugaltesting.com/careers)
-- **Full Story**: [Career Page](https://www.fullstory.com/careers/)
-- **Fyle**: [Career Page](https://www.fylehq.com/careers)
+- **Facebook**: [Career Page]<a href=https://www.facebook.com/careers/  target="_blank">Career Page</a>
+- **FamPay**: [Career Page]<a href=https://fampay.in/careers/  target="_blank">Career Page</a>
+- **Fidelity investments**: [Career Page]<a href=https://jobs.fidelity.com/  target="_blank">Career Page</a>
+- **Fingent**: [Career Page]<a href=https://www.fingent.com/careers  target="_blank">Career Page</a>
+- **Fischer Jordan**: [Career Page]<a href=https://www.fischerjordan.com/careers  target="_blank">Career Page</a>
+- **Fiserv**: [Career Page]<a href=https://www.fiserv.com/en/careers.html  target="_blank">Career Page</a>
+- **Flatworld Solutions**: [Career Page]<a href=https://www.flatworldsolutions.com/careers/  target="_blank">Career Page</a>
+- **Flexport**: [Career Page]<a href=https://www.flexport.com/careers  target="_blank">Career Page</a>
+- **Flipkart**: [Career Page]<a href=https://www.flipkartcareers.com/#!/  target="_blank">Career Page</a>
+- **Flock**: [Career Page]<a href=https://careers.flock.com/  target="_blank">Career Page</a>
+- **Flytxt**: [Career Page]<a href=https://www.flytxt.com/careers  target="_blank">Career Page</a>
+- **Fractal**: [Career Page]<a href=https://fractal.ai/job-opening-fractal-alpha/  target="_blank">Career Page</a>
+- **Frappe Technologies**: [Career Page]<a href=https://frappe.io/careers  target="_blank">Career Page</a>
+- **FreeCharge**: [Career Page]<a href=https://careers.freecharge.in/  target="_blank">Career Page</a>
+- **Freshworks**: [Career Page]<a href=https://www.freshworks.com/company/careers/  target="_blank">Career Page</a>
+- **Frugal Testing**: [Career Page]<a href=https://frugaltesting.com/careers  target="_blank">Career Page</a>
+- **Full Story**: [Career Page]<a href=https://www.fullstory.com/careers/  target="_blank">Career Page</a>
+- **Fyle**: [Career Page]<a href=https://www.fylehq.com/careers  target="_blank">Career Page</a>
 
 ### G
 
-- **Gartner**: [Career Page](https://www.gartner.com/en/careers)
-- **Garuda Aerospace private Ltd**: [Career Page](https://garudaaerospace.com/careers)
-- **GE Healthcare**: [Career Page](https://www.gehealthcare.com/careers)
-- **GE**: [Career Page](https://www.ge.com/careers)
-- **GeeksForGeeks**: [Career Page](https://www.geeksforgeeks.org/careers)
-- **Ghost**: [Career Page](https://ghost.org/careers)
-- **Github**: [Career Page](https://github.com/about/careers)
-- **Gitlab**: [Career Page](https://about.gitlab.com/jobs/)
-- **GlobalLogic**: [Career Page](https://www.globallogic.com/careers/)
-- **GoDaddy**: [Career Page](https://careers.godaddy.com/)
-- **GoDigit**: [Career Page](https://www.godigit.com/careers)
-- **Goibibo**: [Career Page](https://www.goibibo.com/careers/)
-- **Gojek**: [Career Page](https://www.gojek.io/careers)
-- **Goldman Sachs**: [Career Page](https://www.goldmansachs.com/careers/)
-- **Google**: [Career Page](https://careers.google.com/)
-- **Grab**: [Career Page](https://grab.careers/)
-- **GreyOrange**: [Career Page](https://www.greyorange.com/careers/)
-- **Groupon**: [Career Page](https://jobs.groupon.com/en-US/)
-- **Groww**: [Career Page](https://groww.in/careers)
-- **Guild Education**: [Career Page](https://www.guildeducation.com/careers/)
+- **Gartner**: [Career Page]<a href=https://www.gartner.com/en/careers  target="_blank">Career Page</a>
+- **Garuda Aerospace private Ltd**: [Career Page]<a href=https://garudaaerospace.com/careers  target="_blank">Career Page</a>
+- **GE Healthcare**: [Career Page]<a href=https://www.gehealthcare.com/careers  target="_blank">Career Page</a>
+- **GE**: [Career Page]<a href=https://www.ge.com/careers  target="_blank">Career Page</a>
+- **GeeksForGeeks**: [Career Page]<a href=https://www.geeksforgeeks.org/careers  target="_blank">Career Page</a>
+- **Ghost**: [Career Page]<a href=https://ghost.org/careers  target="_blank">Career Page</a>
+- **Github**: [Career Page]<a href=https://github.com/about/careers  target="_blank">Career Page</a>
+- **Gitlab**: [Career Page]<a href=https://about.gitlab.com/jobs/  target="_blank">Career Page</a>
+- **GlobalLogic**: [Career Page]<a href=https://www.globallogic.com/careers/  target="_blank">Career Page</a>
+- **GoDaddy**: [Career Page]<a href=https://careers.godaddy.com/  target="_blank">Career Page</a>
+- **GoDigit**: [Career Page]<a href=https://www.godigit.com/careers  target="_blank">Career Page</a>
+- **Goibibo**: [Career Page]<a href=https://www.goibibo.com/careers/  target="_blank">Career Page</a>
+- **Gojek**: [Career Page]<a href=https://www.gojek.io/careers  target="_blank">Career Page</a>
+- **Goldman Sachs**: [Career Page]<a href=https://www.goldmansachs.com/careers/  target="_blank">Career Page</a>
+- **Google**: [Career Page]<a href=https://careers.google.com/  target="_blank">Career Page</a>
+- **Grab**: [Career Page]<a href=https://grab.careers/  target="_blank">Career Page</a>
+- **GreyOrange**: [Career Page]<a href=https://www.greyorange.com/careers/  target="_blank">Career Page</a>
+- **Groupon**: [Career Page]<a href=https://jobs.groupon.com/en-US/  target="_blank">Career Page</a>
+- **Groww**: [Career Page]<a href=https://groww.in/careers  target="_blank">Career Page</a>
+- **Guild Education**: [Career Page]<a href=https://www.guildeducation.com/careers/  target="_blank">Career Page</a>
 
 ### H
 
-- **Hackerearth**: [Career Page](https://www.hackerearth.com/careers/)
-- **HackerRank**: [Career Page](https://www.hackerrank.com/careers)
-- **Harness**: [Career Page](https://www.harness.io/careers/)
-- **Hashedin**: [Career Page](https://hashedin.com/careers/)
-- **HealthAsyst**: [Career Page](https://www.healthasyst.com/careers/)
-- **Healthify me**: [Career Page](https://www.healthifyme.com/careers)
-- **HERE**: [Career Page](https://www.here.com/careers)
-- **Hewlett-Packard**: [Career Page](https://jobs.hp.com/us/)
-- **Hiring Plug**: [Career Page](https://hiringplug.com/careers/)
-- **Hitachi**: [Career Page](https://careers.hitachi.com/)
-- **Honeywell**: [Career Page](https://www.honeywell.com/us/en/careers)
-- **Hotstar**: [Career Page](https://careers.hotstar.com/jobs)
-- **HSBC**: [Career Page](https://www.hsbc.com/careers/)
-- **HubSpot**: [Career Page](https://www.hubspot.com/careers)
-- **Hyperlink InfoSystem**: [Career Page](https://www.hyperlinkinfosystem.com/career.html)
-- **Hyundai**: [Career Page](https://www.hyundai.com/in/en/hyundai-story/career/overview)
+- **Hackerearth**: [Career Page]<a href=https://www.hackerearth.com/careers/  target="_blank">Career Page</a>
+- **HackerRank**: [Career Page]<a href=https://www.hackerrank.com/careers  target="_blank">Career Page</a>
+- **Harness**: [Career Page]<a href=https://www.harness.io/careers/  target="_blank">Career Page</a>
+- **Hashedin**: [Career Page]<a href=https://hashedin.com/careers/  target="_blank">Career Page</a>
+- **HealthAsyst**: [Career Page]<a href=https://www.healthasyst.com/careers/  target="_blank">Career Page</a>
+- **Healthify me**: [Career Page]<a href=https://www.healthifyme.com/careers  target="_blank">Career Page</a>
+- **HERE**: [Career Page]<a href=https://www.here.com/careers  target="_blank">Career Page</a>
+- **Hewlett-Packard**: [Career Page]<a href=https://jobs.hp.com/us/  target="_blank">Career Page</a>
+- **Hiring Plug**: [Career Page]<a href=https://hiringplug.com/careers/  target="_blank">Career Page</a>
+- **Hitachi**: [Career Page]<a href=https://careers.hitachi.com/  target="_blank">Career Page</a>
+- **Honeywell**: [Career Page]<a href=https://www.honeywell.com/us/en/careers  target="_blank">Career Page</a>
+- **Hotstar**: [Career Page]<a href=https://careers.hotstar.com/jobs  target="_blank">Career Page</a>
+- **HSBC**: [Career Page]<a href=https://www.hsbc.com/careers/  target="_blank">Career Page</a>
+- **HubSpot**: [Career Page]<a href=https://www.hubspot.com/careers  target="_blank">Career Page</a>
+- **Hyperlink InfoSystem**: [Career Page]<a href=https://www.hyperlinkinfosystem.com/career.html  target="_blank">Career Page</a>
+- **Hyundai**: [Career Page]<a href=https://www.hyundai.com/in/en/hyundai-story/career/overview  target="_blank">Career Page</a>
 
 ### I
 
-- **IBM**: [Career Page](https://www.ibm.com/employment/)
-- **IdeaForge**: [Career Page](https://www.ideaforge.co.in/careers)
-- **Impact Analytics**: [Career Page](https://www.impactanalytics.co/careers/)
-- **InApp**: [Career Page](https://www.inapp.com/careers/)
-- **Incedo**: [Career Page](https://www.incedoinc.com/careers)
-- **IndiGo**: [Career Page](https://careers.goindigo.in/)
-- **Indus Valley Partners**: [Career Page](https://www.ivp.in/careers)
-- **Info Edge**: [Career Page](https://careers.infoedge.com/#!/)
-- **Infogain**: [Career Page](https://www.infogain.com/careers/)
-- **Informatica**: [Career Page](https://www.informatica.com/careers.html)
-- **Infosys**: [Career Page](https://www.infosys.com/careers/)
-- **InMobi**: [Career Page](https://www.inmobi.com/company/careers/)
-- **Innovaccer**: [Career Page](https://innovaccer.com/careers/)
-- **Innovid**: [Career Page](https://www.innovid.com/careers)
-- **Innoviti**: [Career Page](https://innoviti.com/jobs/)
-- **Intel**: [Career Page](https://jobs.intel.com/)
-- **Intuit**: [Career Page](https://careers.intuit.com/)
-- **Invesco**: [Career Page](https://careers.invesco.com/)
-- **Ipreo**: [Career Page](https://www.ipreo.com/careers/)
-- **Iris Business Services**: [Career Page](https://www.irisbusiness.com/careers/)
-- **iRobot**: [Career Page](https://www.irobot.com/about-irobot/careers)
-- **Ivy Mobility**: [Career Page](https://ivymobility.com/careers/)
-- **IXL**: [Career Page](https://www.ixl.com/company/careers)
+- **IBM**: [Career Page]<a href=https://www.ibm.com/employment/  target="_blank">Career Page</a>
+- **IdeaForge**: [Career Page]<a href=https://www.ideaforge.co.in/careers  target="_blank">Career Page</a>
+- **Impact Analytics**: [Career Page]<a href=https://www.impactanalytics.co/careers/  target="_blank">Career Page</a>
+- **InApp**: [Career Page]<a href=https://www.inapp.com/careers/  target="_blank">Career Page</a>
+- **Incedo**: [Career Page]<a href=https://www.incedoinc.com/careers  target="_blank">Career Page</a>
+- **IndiGo**: [Career Page]<a href=https://careers.goindigo.in/  target="_blank">Career Page</a>
+- **Indus Valley Partners**: [Career Page]<a href=https://www.ivp.in/careers  target="_blank">Career Page</a>
+- **Info Edge**: [Career Page]<a href=https://careers.infoedge.com/#!/  target="_blank">Career Page</a>
+- **Infogain**: [Career Page]<a href=https://www.infogain.com/careers/  target="_blank">Career Page</a>
+- **Informatica**: [Career Page]<a href=https://www.informatica.com/careers.html  target="_blank">Career Page</a>
+- **Infosys**: [Career Page]<a href=https://www.infosys.com/careers/  target="_blank">Career Page</a>
+- **InMobi**: [Career Page]<a href=https://www.inmobi.com/company/careers/  target="_blank">Career Page</a>
+- **Innovaccer**: [Career Page]<a href=https://innovaccer.com/careers/  target="_blank">Career Page</a>
+- **Innovid**: [Career Page]<a href=https://www.innovid.com/careers  target="_blank">Career Page</a>
+- **Innoviti**: [Career Page]<a href=https://innoviti.com/jobs/  target="_blank">Career Page</a>
+- **Intel**: [Career Page]<a href=https://jobs.intel.com/  target="_blank">Career Page</a>
+- **Intuit**: [Career Page]<a href=https://careers.intuit.com/  target="_blank">Career Page</a>
+- **Invesco**: [Career Page]<a href=https://careers.invesco.com/  target="_blank">Career Page</a>
+- **Ipreo**: [Career Page]<a href=https://www.ipreo.com/careers/  target="_blank">Career Page</a>
+- **Iris Business Services**: [Career Page]<a href=https://www.irisbusiness.com/careers/  target="_blank">Career Page</a>
+- **iRobot**: [Career Page]<a href=https://www.irobot.com/about-irobot/careers  target="_blank">Career Page</a>
+- **Ivy Mobility**: [Career Page]<a href=https://ivymobility.com/careers/  target="_blank">Career Page</a>
+- **IXL**: [Career Page]<a href=https://www.ixl.com/company/careers  target="_blank">Career Page</a>
 
 ### J
 
-- **J.P. Morgan Chase**: [Career Page](https://www.jpmorganchase.com/careers)
-- **John Deere**: [Career Page](https://about.deere.com/en-us/careers/)
-- **JP Morgan**: [Career Page](https://careers.jpmorgan.com/us/en/home)
-- **Juniper Networks**: [Career Page](https://www.juniper.net/us/en/company/careers/)
+- **J.P. Morgan Chase**: [Career Page]<a href=https://www.jpmorganchase.com/careers  target="_blank">Career Page</a>
+- **John Deere**: [Career Page]<a href=https://about.deere.com/en-us/careers/  target="_blank">Career Page</a>
+- **JP Morgan**: [Career Page]<a href=https://careers.jpmorgan.com/us/en/home  target="_blank">Career Page</a>
+- **Juniper Networks**: [Career Page]<a href=https://www.juniper.net/us/en/company/careers/  target="_blank">Career Page</a>
 
 ### K
 
-- **KPMG**: [Career Page](https://home.kpmg/xx/en/home/careers.html)
-- **Kaleyra**: [Career Page](https://www.kaleyra.com/careers/)
-- **Kalido**: [Career Page](https://kalido.me/careers/)
-- **Kaleyra**: [Career Page](https://www.kaleyra.com/careers/)
-- **Karat**: [Career Page](https://karat.com/careers/)
-- **Karix**: [Career Page](https://www.karix.com/careers)
-- **Kaspersky**: [Career Page](https://www.kaspersky.com/about/careers)
-- **Katalyst Technologies**: [Career Page](https://katalysttech.com/careers/)
-- **Kestone**: [Career Page](https://kestoneglobal.com/work-with-us/)
-- **Khatabook**: [Career Page](https://www.khatabook.com/careers)
-- **Kin + Carta**: [Career Page](https://www.kinandcarta.com/en-us/careers/)
-- **KlearNow**: [Career Page](https://www.klearnow.com/careers)
-- **Kloutix**: [Career Page](https://kloutix.com/career/)
-- **Kodak**: [Career Page](https://careers.kodak.com/?utm_source=corpsite)
-- **Kohls**: [Career Page](https://careers.kohls.com/)
-- **KPMG**: [Career Page](https://home.kpmg/xx/en/home/careers.html)
-- **KPIT**: [Career Page](https://www.kpit.com/careers)
-- **KTM**: [Career Page](https://jobs.ktm.com/Jobs)
+- **KPMG**: [Career Page]<a href=https://home.kpmg/xx/en/home/careers.html  target="_blank">Career Page</a>
+- **Kaleyra**: [Career Page]<a href=https://www.kaleyra.com/careers/  target="_blank">Career Page</a>
+- **Kalido**: [Career Page]<a href=https://kalido.me/careers/  target="_blank">Career Page</a>
+- **Kaleyra**: [Career Page]<a href=https://www.kaleyra.com/careers/  target="_blank">Career Page</a>
+- **Karat**: [Career Page]<a href=https://karat.com/careers/  target="_blank">Career Page</a>
+- **Karix**: [Career Page]<a href=https://www.karix.com/careers  target="_blank">Career Page</a>
+- **Kaspersky**: [Career Page]<a href=https://www.kaspersky.com/about/careers  target="_blank">Career Page</a>
+- **Katalyst Technologies**: [Career Page]<a href=https://katalysttech.com/careers/  target="_blank">Career Page</a>
+- **Kestone**: [Career Page]<a href=https://kestoneglobal.com/work-with-us/  target="_blank">Career Page</a>
+- **Khatabook**: [Career Page]<a href=https://www.khatabook.com/careers  target="_blank">Career Page</a>
+- **Kin + Carta**: [Career Page]<a href=https://www.kinandcarta.com/en-us/careers/  target="_blank">Career Page</a>
+- **KlearNow**: [Career Page]<a href=https://www.klearnow.com/careers  target="_blank">Career Page</a>
+- **Kloutix**: [Career Page]<a href=https://kloutix.com/career/  target="_blank">Career Page</a>
+- **Kodak**: [Career Page]<a href=https://careers.kodak.com/?utm_source=corpsite  target="_blank">Career Page</a>
+- **Kohls**: [Career Page]<a href=https://careers.kohls.com/  target="_blank">Career Page</a>
+- **KPMG**: [Career Page]<a href=https://home.kpmg/xx/en/home/careers.html  target="_blank">Career Page</a>
+- **KPIT**: [Career Page]<a href=https://www.kpit.com/careers  target="_blank">Career Page</a>
+- **KTM**: [Career Page]<a href=https://jobs.ktm.com/Jobs  target="_blank">Career Page</a>
 
 ### L
 
-- **LTIMindtree**: [Career Page](https://www.ltimindtree.com/careers/)
-- **L’Oreal**: [Career Page](https://www.loreal.com/en/careers/)
-- **Landmark Group**: [Career Page](https://www.landmarkgroup.com/careers)
-- **Lam Research**: [Career Page](https://careers.lamresearch.com/)
-- **Langoor**: [Career Page](https://careers.langoor.com/)
-- **LatentView Analytics**: [Career Page](https://www.latentview.com/career/)
-- **Lemonade Insurance**: [Career Page](https://makers.lemonade.com/)
-- **Lenskart**: [Career Page](https://hiring.lenskart.com/)
-- **Lenovo**: [Career Page](https://jobs.lenovo.com/en_US/careers)
-- **Leverage Edu**: [Career Page](https://leverageedu.com/work-with-us/)
-- **Licious**: [Career Page](https://www.licious.in/careers)
-- **Liftoff**: [Career Page](https://liftoff.io/careers/)
-- **Linktree**: [Career Page](https://linktr.ee/s/about/careers/)
-- **LiveRamp**: [Career Page](https://liveramp.com/careers/)
-- **LogicMonitor**: [Career Page](https://www.logicmonitor.com/careers/)
-- **LogiNext**: [Career Page](https://loginextsolutions.com/careers/)
-- **Lookout**: [Career Page](https://www.lookout.com/about/careers)
-- **Lowe's**: [Career Page](https://jobs.lowes.com/)
-- **Lybrate**: [Career Page](https://www.lybrate.com/jobs)
-- **Lyca Digital**: [Career Page](https://lycadigital.com/careers)
-- **Lyft**: [Career Page](https://www.lyft.com/careers)
+- **LTIMindtree**: [Career Page]<a href=https://www.ltimindtree.com/careers/  target="_blank">Career Page</a>
+- **L’Oreal**: [Career Page]<a href=https://www.loreal.com/en/careers/  target="_blank">Career Page</a>
+- **Landmark Group**: [Career Page]<a href=https://www.landmarkgroup.com/careers  target="_blank">Career Page</a>
+- **Lam Research**: [Career Page]<a href=https://careers.lamresearch.com/  target="_blank">Career Page</a>
+- **Langoor**: [Career Page]<a href=https://careers.langoor.com/  target="_blank">Career Page</a>
+- **LatentView Analytics**: [Career Page]<a href=https://www.latentview.com/career/  target="_blank">Career Page</a>
+- **Lemonade Insurance**: [Career Page]<a href=https://makers.lemonade.com/  target="_blank">Career Page</a>
+- **Lenskart**: [Career Page]<a href=https://hiring.lenskart.com/  target="_blank">Career Page</a>
+- **Lenovo**: [Career Page]<a href=https://jobs.lenovo.com/en_US/careers  target="_blank">Career Page</a>
+- **Leverage Edu**: [Career Page]<a href=https://leverageedu.com/work-with-us/  target="_blank">Career Page</a>
+- **Licious**: [Career Page]<a href=https://www.licious.in/careers  target="_blank">Career Page</a>
+- **Liftoff**: [Career Page]<a href=https://liftoff.io/careers/  target="_blank">Career Page</a>
+- **Linktree**: [Career Page]<a href=https://linktr.ee/s/about/careers/  target="_blank">Career Page</a>
+- **LiveRamp**: [Career Page]<a href=https://liveramp.com/careers/  target="_blank">Career Page</a>
+- **LogicMonitor**: [Career Page]<a href=https://www.logicmonitor.com/careers/  target="_blank">Career Page</a>
+- **LogiNext**: [Career Page]<a href=https://loginextsolutions.com/careers/  target="_blank">Career Page</a>
+- **Lookout**: [Career Page]<a href=https://www.lookout.com/about/careers  target="_blank">Career Page</a>
+- **Lowe's**: [Career Page]<a href=https://jobs.lowes.com/  target="_blank">Career Page</a>
+- **Lybrate**: [Career Page]<a href=https://www.lybrate.com/jobs  target="_blank">Career Page</a>
+- **Lyca Digital**: [Career Page]<a href=https://lycadigital.com/careers  target="_blank">Career Page</a>
+- **Lyft**: [Career Page]<a href=https://www.lyft.com/careers  target="_blank">Career Page</a>
 
 ### M
 
-- **Maersk**: [Career Page](https://www.maersk.com/career)
-- **Makemytrip**: [Career Page](https://careers.makemytrip.com/)
-- **Manhattan Associates**: [Career Page](https://www.manh.com/careers)
-- **Mankind Pharma**: [Career Page](https://careers.mankindpharma.com/)
-- **MapMyIndia**: [Career Page](https://www.mapmyindia.com/careers/)
-- **Mars**: [Career Page](https://www.mars.com/careers)
-- **Mashreq Bank**: [Career Page](https://www.mashreqbank.com/)
-- **MasterCard**: [Career Page](https://www.mastercard.us/en-us/about-mastercard/careers.html)
-- **Mathworks**: [Career Page](https://www.mathworks.com/company/jobs/opportunities.html)
-- **Max Life Insurance**: [Career Page](https://www.maxlifeinsurance.com/join-max-life)
-- **McAfee**: [Career Page](https://careers.mcafee.com/us/jobs/)
-- **Medlife**: [Career Page](https://www.medlife.com/careers)
-- **Medtronic**: [Career Page](https://www.medtronic.com/in-en/about/careers.html)
-- **Meesho**: [Career Page](https://www.meesho.io/jobs?utm_medium=footer&utm_source=meesho_website&utm_campaign=careerspagepromotion)
-- **Mercedes-Benz**: [Career Page](https://www.mercedes-benz.co.in/passengercars/the-brand/careers.html)
-- **Merck**: [Career Page](https://www.merckgroup.com/en/careers.html)
-- **MetLife**: [Career Page](https://www.metlife.com/careers/)
-- **Microsoft**: [Career Page](https://careers.microsoft.com/)
-- **Miko**: [Career Page](https://miko.ai/pages/careers)
-- **Mindfire Solutions**: [Career Page](https://www.mindfiresolutions.com/people/career/)
-- **MindTickle**: [Career Page](https://www.mindtickle.com/careers/)
-- **Mphasis**: [Career Page](https://careers.mphasis.com/home.html)
-- **Mu Sigma**: [Career Page](https://www.mu-sigma.com/career/)
-- **Mubi**: [Career Page](https://mubi.com/jobs)
-- **Mudrex**: [Career Page](https://mudrex.freshteam.com/jobs)
-- **MulticoreWare**: [Career Page](https://www.multicorewareinc.com/careers/)
-- **Myntra**: [Career Page](https://careers.myntra.com/)
+- **Maersk**: [Career Page]<a href=https://www.maersk.com/career  target="_blank">Career Page</a>
+- **Makemytrip**: [Career Page]<a href=https://careers.makemytrip.com/  target="_blank">Career Page</a>
+- **Manhattan Associates**: [Career Page]<a href=https://www.manh.com/careers  target="_blank">Career Page</a>
+- **Mankind Pharma**: [Career Page]<a href=https://careers.mankindpharma.com/  target="_blank">Career Page</a>
+- **MapMyIndia**: [Career Page]<a href=https://www.mapmyindia.com/careers/  target="_blank">Career Page</a>
+- **Mars**: [Career Page]<a href=https://www.mars.com/careers  target="_blank">Career Page</a>
+- **Mashreq Bank**: [Career Page]<a href=https://www.mashreqbank.com/  target="_blank">Career Page</a>
+- **MasterCard**: [Career Page]<a href=https://www.mastercard.us/en-us/about-mastercard/careers.html  target="_blank">Career Page</a>
+- **Mathworks**: [Career Page]<a href=https://www.mathworks.com/company/jobs/opportunities.html  target="_blank">Career Page</a>
+- **Max Life Insurance**: [Career Page]<a href=https://www.maxlifeinsurance.com/join-max-life  target="_blank">Career Page</a>
+- **McAfee**: [Career Page]<a href=https://careers.mcafee.com/us/jobs/  target="_blank">Career Page</a>
+- **Medlife**: [Career Page]<a href=https://www.medlife.com/careers  target="_blank">Career Page</a>
+- **Medtronic**: [Career Page]<a href=https://www.medtronic.com/in-en/about/careers.html  target="_blank">Career Page</a>
+- **Meesho**: [Career Page]<a href=https://www.meesho.io/jobs?utm_medium=footer&utm_source=meesho_website&utm_campaign=careerspagepromotion  target="_blank">Career Page</a>
+- **Mercedes-Benz**: [Career Page]<a href=https://www.mercedes-benz.co.in/passengercars/the-brand/careers.html  target="_blank">Career Page</a>
+- **Merck**: [Career Page]<a href=https://www.merckgroup.com/en/careers.html  target="_blank">Career Page</a>
+- **MetLife**: [Career Page]<a href=https://www.metlife.com/careers/  target="_blank">Career Page</a>
+- **Microsoft**: [Career Page]<a href=https://careers.microsoft.com/  target="_blank">Career Page</a>
+- **Miko**: [Career Page]<a href=https://miko.ai/pages/careers  target="_blank">Career Page</a>
+- **Mindfire Solutions**: [Career Page]<a href=https://www.mindfiresolutions.com/people/career/  target="_blank">Career Page</a>
+- **MindTickle**: [Career Page]<a href=https://www.mindtickle.com/careers/  target="_blank">Career Page</a>
+- **Mphasis**: [Career Page]<a href=https://careers.mphasis.com/home.html  target="_blank">Career Page</a>
+- **Mu Sigma**: [Career Page]<a href=https://www.mu-sigma.com/career/  target="_blank">Career Page</a>
+- **Mubi**: [Career Page]<a href=https://mubi.com/jobs  target="_blank">Career Page</a>
+- **Mudrex**: [Career Page]<a href=https://mudrex.freshteam.com/jobs  target="_blank">Career Page</a>
+- **MulticoreWare**: [Career Page]<a href=https://www.multicorewareinc.com/careers/  target="_blank">Career Page</a>
+- **Myntra**: [Career Page]<a href=https://careers.myntra.com/  target="_blank">Career Page</a>
 
 ### N
 
-- **Nagarro**: [Career Page](https://www.nagarro.com/en/careers)
-- **Narayana Group**: [Career Page](https://jobs.narayanahealth.org/NH-India/search/)
-- **NASA**: [Career Page](https://www.nasa.gov/careers)
-- **National Instruments**: [Career Page](https://www.ni.com/en-us/about-ni/careers.html)
-- **National Payments Corporation of India**: [Career Page](https://www.npci.org.in/work-with-us/current-openings)
-- **NCR Corporation**: [Career Page](https://www.ncr.com/careers)
-- **NEETprep**: [Career Page](https://www.neetprep.com/careers)
-- **Nelito Systems**: [Career Page](https://www.nelito.com/careers.html)
-- **Netapp**: [Career Page](https://www.netapp.com/company/careers/)
-- **Netflix**: [Career Page](https://jobs.netflix.com/)
-- **Netsuite**: [Career Page](https://www.netsuite.com/portal/company/career.shtml)
-- **Nexus Ventures**: [Career Page](https://jobs.nexusvp.com/jobs)
-- **Nissan**: [Career Page](https://www.nissanmotor.jobs/)
-- **Nokia**: [Career Page](https://www.nokia.com/about-us/careers/)
-- **Nuance**: [Career Page](https://www.nuance.com/about-us/careers.html)
-- **Nucleus Software**: [Career Page](https://www.nucleussoftware.com/careers)
-- **Nutanix**: [Career Page](https://www.nutanix.com/company/careers)
-- **Nvidia**: [Career Page](https://www.nvidia.com/en-us/about-nvidia/careers/)
-- **NXP Semiconductors**: [Career Page](https://www.nxp.com/company/about-nxp/careers:CAREERS)
+- **Nagarro**: [Career Page]<a href=https://www.nagarro.com/en/careers  target="_blank">Career Page</a>
+- **Narayana Group**: [Career Page]<a href=https://jobs.narayanahealth.org/NH-India/search/  target="_blank">Career Page</a>
+- **NASA**: [Career Page]<a href=https://www.nasa.gov/careers  target="_blank">Career Page</a>
+- **National Instruments**: [Career Page]<a href=https://www.ni.com/en-us/about-ni/careers.html  target="_blank">Career Page</a>
+- **National Payments Corporation of India**: [Career Page]<a href=https://www.npci.org.in/work-with-us/current-openings  target="_blank">Career Page</a>
+- **NCR Corporation**: [Career Page]<a href=https://www.ncr.com/careers  target="_blank">Career Page</a>
+- **NEETprep**: [Career Page]<a href=https://www.neetprep.com/careers  target="_blank">Career Page</a>
+- **Nelito Systems**: [Career Page]<a href=https://www.nelito.com/careers.html  target="_blank">Career Page</a>
+- **Netapp**: [Career Page]<a href=https://www.netapp.com/company/careers/  target="_blank">Career Page</a>
+- **Netflix**: [Career Page]<a href=https://jobs.netflix.com/  target="_blank">Career Page</a>
+- **Netsuite**: [Career Page]<a href=https://www.netsuite.com/portal/company/career.shtml  target="_blank">Career Page</a>
+- **Nexus Ventures**: [Career Page]<a href=https://jobs.nexusvp.com/jobs  target="_blank">Career Page</a>
+- **Nissan**: [Career Page]<a href=https://www.nissanmotor.jobs/  target="_blank">Career Page</a>
+- **Nokia**: [Career Page]<a href=https://www.nokia.com/about-us/careers/  target="_blank">Career Page</a>
+- **Nuance**: [Career Page]<a href=https://www.nuance.com/about-us/careers.html  target="_blank">Career Page</a>
+- **Nucleus Software**: [Career Page]<a href=https://www.nucleussoftware.com/careers  target="_blank">Career Page</a>
+- **Nutanix**: [Career Page]<a href=https://www.nutanix.com/company/careers  target="_blank">Career Page</a>
+- **Nvidia**: [Career Page]<a href=https://www.nvidia.com/en-us/about-nvidia/careers/  target="_blank">Career Page</a>
+- **NXP Semiconductors**: [Career Page]<a href=https://www.nxp.com/company/about-nxp/careers:CAREERS  target="_blank">Career Page</a>
 
 ### O
 
-- **Ola Cabs**: [Career Page](https://www.olacabs.com/careers)
-- **Omnicell**: [Career Page](https://www.omnicell.com/careers/)
-- **OnePlus**: [Career Page](https://www.oneplus.in/careers)
-- **Onmobile**: [Career Page](https://www.onmobile.com/career#onmobile-current-openings)
-- **OpenText**: [Career Page](https://careers.opentext.com/)
-- **Optum**: [Career Page](https://www.optum.com/careers.html)
-- **Oracle**: [Career Page](https://www.oracle.com/corporate/careers/)
-- **Orange**: [Career Page](https://www.orange-business.com/en/about-us/careers)
-- **Orient Electric**: [Career Page](https://www.orientelectric.com/careers/current_opening)
-- **OYO**: [Career Page](https://www.linkedin.com/company/oyo-rooms/jobs/)
+- **Ola Cabs**: [Career Page]<a href=https://www.olacabs.com/careers  target="_blank">Career Page</a>
+- **Omnicell**: [Career Page]<a href=https://www.omnicell.com/careers/  target="_blank">Career Page</a>
+- **OnePlus**: [Career Page]<a href=https://www.oneplus.in/careers  target="_blank">Career Page</a>
+- **Onmobile**: [Career Page]<a href=https://www.onmobile.com/career#onmobile-current-openings  target="_blank">Career Page</a>
+- **OpenText**: [Career Page]<a href=https://careers.opentext.com/  target="_blank">Career Page</a>
+- **Optum**: [Career Page]<a href=https://www.optum.com/careers.html  target="_blank">Career Page</a>
+- **Oracle**: [Career Page]<a href=https://www.oracle.com/corporate/careers/  target="_blank">Career Page</a>
+- **Orange**: [Career Page]<a href=https://www.orange-business.com/en/about-us/careers  target="_blank">Career Page</a>
+- **Orient Electric**: [Career Page]<a href=https://www.orientelectric.com/careers/current_opening  target="_blank">Career Page</a>
+- **OYO**: [Career Page]<a href=https://www.linkedin.com/company/oyo-rooms/jobs/  target="_blank">Career Page</a>
 
 ### P
 
-- **Palo Alto Networks**: [Career Page](https://www.paloaltonetworks.com/company/careers)
-- **Paysafe**: [Career Page](https://careers.paysafe.com/)
-- **Paytm**: [Career Page](https://paytm.com/careers)
-- **PayPal**: [Career Page](https://www.paypal.com/in/webapps/mpp/jobs)
-- **PayU**: [Career Page](https://www.payu.in/careers)
-- **Pearson**: [Career Page](https://www.pearson.com/corporate/careers.html)
-- **Pegasystems**: [Career Page](https://www.pega.com/about/careers)
-- **Persistent Systems**: [Career Page](https://www.persistent.com/careers/)
-- **Petal**: [Career Page](https://www.petalcard.com/careers)
-- **Petco**: [Career Page](https://careers.petco.com/)
-- **Philips**: [Career Page](https://www.philips.co.in/a-w/careers/homepage.html)
-- **PhonePe**: [Career Page](https://www.phonepe.com/careers/)
-- **Pidilite Industries**: [Career Page](https://www.pidilite.com/careers/)
-- **Pine Labs**: [Career Page](https://www.pinelabs.com/careers)
-- **Ping Identity**: [Career Page](https://www.pingidentity.com/en/company/careers.html)
-- **Pinnacle Group**: [Career Page](https://www.pinnacle1.com/careers/)
-- **Piramal Group**: [Career Page](https://www.piramal.com/careers)
-- **Pitney Bowes**: [Career Page](https://www.pitneybowes.com/us/careers.html)
-- **Plume Design**: [Career Page](https://www.plume.com/careers/)
-- **Postman**: [Career Page](https://www.postman.com/company/careers/)
-- **PowerSchool**: [Career Page](https://www.powerschool.com/company/careers/)
-- **PPRO**: [Career Page](https://www.ppro.com/careers)
-- **Practo**: [Career Page](https://www.practo.com/company/careers)
-- **Prodapt**: [Career Page](https://career-portal.prodapt.com)
-- **PubMatic**: [Career Page](https://pubmatic.com/careers/)
-- **Publicis Sapient**: [Career Page](https://www.publicissapient.com/careers)
-- **PwC**: [Career Page](https://www.pwc.com/gx/en/careers.html)
-- **Pyxis**: [Career Page](https://pyxis.tech/open-position/)
+- **Palo Alto Networks**: [Career Page]<a href=https://www.paloaltonetworks.com/company/careers  target="_blank">Career Page</a>
+- **Paysafe**: [Career Page]<a href=https://careers.paysafe.com/  target="_blank">Career Page</a>
+- **Paytm**: [Career Page]<a href=https://paytm.com/careers  target="_blank">Career Page</a>
+- **PayPal**: [Career Page]<a href=https://www.paypal.com/in/webapps/mpp/jobs  target="_blank">Career Page</a>
+- **PayU**: [Career Page]<a href=https://www.payu.in/careers  target="_blank">Career Page</a>
+- **Pearson**: [Career Page]<a href=https://www.pearson.com/corporate/careers.html  target="_blank">Career Page</a>
+- **Pegasystems**: [Career Page]<a href=https://www.pega.com/about/careers  target="_blank">Career Page</a>
+- **Persistent Systems**: [Career Page]<a href=https://www.persistent.com/careers/  target="_blank">Career Page</a>
+- **Petal**: [Career Page]<a href=https://www.petalcard.com/careers  target="_blank">Career Page</a>
+- **Petco**: [Career Page]<a href=https://careers.petco.com/  target="_blank">Career Page</a>
+- **Philips**: [Career Page]<a href=https://www.philips.co.in/a-w/careers/homepage.html  target="_blank">Career Page</a>
+- **PhonePe**: [Career Page]<a href=https://www.phonepe.com/careers/  target="_blank">Career Page</a>
+- **Pidilite Industries**: [Career Page]<a href=https://www.pidilite.com/careers/  target="_blank">Career Page</a>
+- **Pine Labs**: [Career Page]<a href=https://www.pinelabs.com/careers  target="_blank">Career Page</a>
+- **Ping Identity**: [Career Page]<a href=https://www.pingidentity.com/en/company/careers.html  target="_blank">Career Page</a>
+- **Pinnacle Group**: [Career Page]<a href=https://www.pinnacle1.com/careers/  target="_blank">Career Page</a>
+- **Piramal Group**: [Career Page]<a href=https://www.piramal.com/careers  target="_blank">Career Page</a>
+- **Pitney Bowes**: [Career Page]<a href=https://www.pitneybowes.com/us/careers.html  target="_blank">Career Page</a>
+- **Plume Design**: [Career Page]<a href=https://www.plume.com/careers/  target="_blank">Career Page</a>
+- **Postman**: [Career Page]<a href=https://www.postman.com/company/careers/  target="_blank">Career Page</a>
+- **PowerSchool**: [Career Page]<a href=https://www.powerschool.com/company/careers/  target="_blank">Career Page</a>
+- **PPRO**: [Career Page]<a href=https://www.ppro.com/careers  target="_blank">Career Page</a>
+- **Practo**: [Career Page]<a href=https://www.practo.com/company/careers  target="_blank">Career Page</a>
+- **Prodapt**: [Career Page]<a href=https://career-portal.prodapt.com  target="_blank">Career Page</a>
+- **PubMatic**: [Career Page]<a href=https://pubmatic.com/careers/  target="_blank">Career Page</a>
+- **Publicis Sapient**: [Career Page]<a href=https://www.publicissapient.com/careers  target="_blank">Career Page</a>
+- **PwC**: [Career Page]<a href=https://www.pwc.com/gx/en/careers.html  target="_blank">Career Page</a>
+- **Pyxis**: [Career Page]<a href=https://pyxis.tech/open-position/  target="_blank">Career Page</a>
 
 ### Q
 
-- **QikPod**: [Career Page](https://qikpod.com/careers/)
-- **Qualcomm**: [Career Page](https://www.qualcomm.com/company/careers)
-- **Qualitest**: [Career Page](https://qualitestgroup.com/careers/)
-- **QuEST Global**: [Career Page](https://www.quest-global.com/careers/)
-- **Quick Ride**: [Career Page](https://quickride.in/careers)
-- **Quintype**: [Career Page](https://quintype.com/careers)
-- **Quipper**: [Career Page](https://www.quipper.com/careers/)
-- **Quora**: [Career Page](https://www.quora.com/careers)
-- **Quovantis**: [Career Page](https://www.quovantis.com/careers/)
-- **Qwikcilver**: [Career Page](https://www.qwikcilver.com/careers/)
+- **QikPod**: [Career Page]<a href=https://qikpod.com/careers/  target="_blank">Career Page</a>
+- **Qualcomm**: [Career Page]<a href=https://www.qualcomm.com/company/careers  target="_blank">Career Page</a>
+- **Qualitest**: [Career Page]<a href=https://qualitestgroup.com/careers/  target="_blank">Career Page</a>
+- **QuEST Global**: [Career Page]<a href=https://www.quest-global.com/careers/  target="_blank">Career Page</a>
+- **Quick Ride**: [Career Page]<a href=https://quickride.in/careers  target="_blank">Career Page</a>
+- **Quintype**: [Career Page]<a href=https://quintype.com/careers  target="_blank">Career Page</a>
+- **Quipper**: [Career Page]<a href=https://www.quipper.com/careers/  target="_blank">Career Page</a>
+- **Quora**: [Career Page]<a href=https://www.quora.com/careers  target="_blank">Career Page</a>
+- **Quovantis**: [Career Page]<a href=https://www.quovantis.com/careers/  target="_blank">Career Page</a>
+- **Qwikcilver**: [Career Page]<a href=https://www.qwikcilver.com/careers/  target="_blank">Career Page</a>
 
 ### R
 
-- **Razorpay**: [Career Page](https://razorpay.com/careers/)
-- **Raytheon Technologies**: [Career Page](https://www.rtx.com/careers)
-- **Redhat**: [Career Page](https://www.redhat.com/en/jobs)
-- **Reliance Jio**: [Career Page](https://careers.jio.com/)
-- **Reliance**: [Career Page](https://www.ril.com/careers/search-apply)
-- **Relex Solutions**: [Career Page](https://www.relexsolutions.com/company/careers/)
-- **Remidio**: [Career Page](https://www.remidio.com/careers/)
-- **Reputation.com**: [Career Page](https://www.reputation.com/careers/)
-- **Robosoft Technologies**: [Career Page](https://www.robosoftin.com/careers/)
-- **Rocketium**: [Career Page](https://careers.rocketium.com/jobs)
-- **Rogers Communications**: [Career Page](https://www.rogers.com/careers)
-- **Roku**: [Career Page](https://www.roku.com/about/jobs)
-- **Royal Enfield**: [Career Page](https://careers.royalenfield.com/)
-- **RPM International Inc.**: [Career Page](https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_8/requisitions?mode=location)
-- **Rubrik**: [Career Page](https://www.rubrik.com/company/careers)
-- **Ruckus Networks**: [Career Page](https://www.ruckusnetworks.com/company/careers)
-- **Rupifi**: [Career Page](https://www.rupifi.com/careers)
+- **Razorpay**: [Career Page]<a href=https://razorpay.com/careers/  target="_blank">Career Page</a>
+- **Raytheon Technologies**: [Career Page]<a href=https://www.rtx.com/careers  target="_blank">Career Page</a>
+- **Redhat**: [Career Page]<a href=https://www.redhat.com/en/jobs  target="_blank">Career Page</a>
+- **Reliance Jio**: [Career Page]<a href=https://careers.jio.com/  target="_blank">Career Page</a>
+- **Reliance**: [Career Page]<a href=https://www.ril.com/careers/search-apply  target="_blank">Career Page</a>
+- **Relex Solutions**: [Career Page]<a href=https://www.relexsolutions.com/company/careers/  target="_blank">Career Page</a>
+- **Remidio**: [Career Page]<a href=https://www.remidio.com/careers/  target="_blank">Career Page</a>
+- **Reputation.com**: [Career Page]<a href=https://www.reputation.com/careers/  target="_blank">Career Page</a>
+- **Robosoft Technologies**: [Career Page]<a href=https://www.robosoftin.com/careers/  target="_blank">Career Page</a>
+- **Rocketium**: [Career Page]<a href=https://careers.rocketium.com/jobs  target="_blank">Career Page</a>
+- **Rogers Communications**: [Career Page]<a href=https://www.rogers.com/careers  target="_blank">Career Page</a>
+- **Roku**: [Career Page]<a href=https://www.roku.com/about/jobs  target="_blank">Career Page</a>
+- **Royal Enfield**: [Career Page]<a href=https://careers.royalenfield.com/  target="_blank">Career Page</a>
+- **RPM International Inc.**: [Career Page]<a href=https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_8/requisitions?mode=location  target="_blank">Career Page</a>
+- **Rubrik**: [Career Page]<a href=https://www.rubrik.com/company/careers  target="_blank">Career Page</a>
+- **Ruckus Networks**: [Career Page]<a href=https://www.ruckusnetworks.com/company/careers  target="_blank">Career Page</a>
+- **Rupifi**: [Career Page]<a href=https://www.rupifi.com/careers  target="_blank">Career Page</a>
 
 ### S
 
-- **S&P Global**: [Career Page](https://careers.spglobal.com/)
-- **Sabre**: [Career Page](https://www.sabre.com/careers/teams/)
-- **Salesforce**: [Career Page](https://www.salesforce.com/in/company/careers/)
-- **Samsung**: [Career Page](https://www.samsung.com/in/about-us/careers/)
-- **Sanofi**: [Career Page](https://www.sanofi.in/en/careers/)
-- **SAP Labs**: [Career Page](https://www.sap.com/india/about/careers.html)
-- **Sapient**: [Career Page](https://www.publicissapient.com/careers)
-- **SAS**: [Career Page](https://www.sas.com/en_in/careers.html)
-- **Saviynt**: [Career Page](https://saviynt.com/careers/)
-- **Schlumberger**: [Career Page](https://www.slb.com/careers)
-- **Schneider Electric**: [Career Page](https://careers.se.com/global/jobs)
-- **Scripbox**: [Career Page](https://scripbox.com/pages/careers)
-- **Seagate**: [Career Page](https://www.seagate.com/in/en/about-us/careers/)
-- **Securly**: [Career Page](https://www.securly.com/careers)
-- **Sennheiser**: [Career Page](https://www.sennheiser.com/en-in/jobs-and-careers)
-- **ServiceNow**: [Career Page](https://www.servicenow.com/careers.html)
-- **ShareChat**: [Career Page](https://sharechat.com/careers)
-- **Shell**: [Career Page](https://www.shell.in/careers.html)
-- **Shipsy**: [Career Page](https://shipsy.io/careers/)
-- **Shopify**: [Career Page](https://www.shopify.in/careers)
-- **Siemens**: [Career Page](https://new.siemens.com/in/en/company/jobs.html)
-- **Signify**: [Career Page](https://www.signify.com/en-in/careers)
-- **Sigmoid**: [Career Page](https://www.sigmoid.com/careers/)
-- **Silicon Valley Bank**: [Career Page](https://www.svb.com/careers)
-- **SilverPush**: [Career Page](https://www.silverpush.co/careers)
-- **Simplilearn**: [Career Page](https://www.simplilearn.com/careers)
-- **Simpl**: [Career Page](https://getsimpl.com/careers/)
-- **Sirion Labs**: [Career Page](https://www.sirionlabs.com/careers/)
-- **SiSense**: [Career Page](https://www.sisense.com/company/careers/)
-- **Sitecore**: [Career Page](https://www.sitecore.com/company/careers)
-- **Skedulo**: [Career Page](https://www.skedulo.com/careers/)
-- **Skillate**: [Career Page](https://skillate.com/careers/)
-- **Skillsoft**: [Career Page](https://www.skillsoft.com/about/careers)
-- **Skillz**: [Career Page](https://www.skillz.com/careers)
-- **Skylark Drones**: [Career Page](https://www.skylarkdrones.com/career)
-- **Slack**: [Career Page](https://slack.com/careers)
-- **SlicePay**: [Career Page](https://slicepay.in/careers/)
-- **SmartServ**: [Career Page](https://www.smartserv.io/careers)
-- **Snap**: [Career Page](https://www.snap.com/jobs)
-- **Snowflake**: [Career Page](https://careers.snowflake.com/us/en)
-- **Softcell**: [Career Page](https://www.softcell.com/career/)
-- **Softdel Systems**: [Career Page](https://softdel.com/careers/)
-- **Softura**: [Career Page](https://www.softura.com/careers/)
-- **Solugenix**: [Career Page](https://careers.solugenix.com/)
-- **Sonder**: [Career Page](https://www.sonder.com/careers)
-- **Sony**: [Career Page](https://www.sony.co.in/microsite/careers/)
-- **Sophos**: [Career Page](https://www.sophos.com/en-us/company/careers.aspx)
-- **Soroco**: [Career Page](https://soroco.com/careers/)
-- **SOTI**: [Career Page](https://www.soti.net/careers/)
-- **Spectra**: [Career Page](https://www.spectra.co/careers)
-- **Spotify**: [Career Page](https://www.spotifyjobs.com/)
-- **SpringRole**: [Career Page](https://www.springrole.com/careers)
-- **Springworks**: [Career Page](https://springworks.in/careers/)
-- **Sprinklr**: [Career Page](https://www.sprinklr.com/careers)
-- **Square Yards**: [Career Page](https://www.squareyards.com/career)
-- **Square**: [Career Page](https://squareup.com/careers)
-- **Srijan**: [Career Page](https://materialplus.srijan.net/about/careers)
-- **Srijan Capital**: [Career Page](https://www.srijancapital.com/careers/)
-- **Standard Chartered Bank**: [Career Page](https://www.sc.com/en/careers/)
-- **Starship Technologies**: [Career Page](https://www.starship.xyz/careers/)
-- **Stratbeans Consulting**: [Career Page](https://stratbeans.com/careers/)
-- **Stride.ai**: [Career Page](https://stride.ai/careers/)
-- **Stridely Solutions**: [Career Page](https://www.stridelysolutions.com/career)
-- **Striveworks**: [Career Page](https://www.striveworks.us/careers/)
-- **Studytonight**: [Career Page](https://www.studytonight.com/career/)
-- **StyleDotMe**: [Career Page](https://styledotme.com/careers/)
-- **Sugar Cosmetics**: [Career Page](https://in.sugarcosmetics.com/careers)
-- **SunPower**: [Career Page](https://us.sunpower.com/careers)
-- **Swiggy**: [Career Page](https://careers.swiggy.com/)
-- **Swiss Re**: [Career Page](https://careers.swissre.com/)
-- **SymphonyAI**: [Career Page](https://symphonyai.com/careers/)
-- **Symphony**: [Career Page](https://symphony.com/careers/)
-- **Syncron**: [Career Page](https://www.syncron.com/company/careers/)
-- **Systech Solutions**: [Career Page](https://systechusa.com/career/)
-- **Systools Software**: [Career Page](https://www.systoolsgroup.com/careers/)
-- **Sysvine Technologies**: [Career Page](https://www.sysvine.com/careers/)
-- **Systweak Software**: [Career Page](https://www.systweak.com/careers)
-- **Syz**: [Career Page](https://www.syzgroup.com/careers)
+- **S&P Global**: [Career Page]<a href=https://careers.spglobal.com/  target="_blank">Career Page</a>
+- **Sabre**: [Career Page]<a href=https://www.sabre.com/careers/teams/  target="_blank">Career Page</a>
+- **Salesforce**: [Career Page]<a href=https://www.salesforce.com/in/company/careers/  target="_blank">Career Page</a>
+- **Samsung**: [Career Page]<a href=https://www.samsung.com/in/about-us/careers/  target="_blank">Career Page</a>
+- **Sanofi**: [Career Page]<a href=https://www.sanofi.in/en/careers/  target="_blank">Career Page</a>
+- **SAP Labs**: [Career Page]<a href=https://www.sap.com/india/about/careers.html  target="_blank">Career Page</a>
+- **Sapient**: [Career Page]<a href=https://www.publicissapient.com/careers  target="_blank">Career Page</a>
+- **SAS**: [Career Page]<a href=https://www.sas.com/en_in/careers.html  target="_blank">Career Page</a>
+- **Saviynt**: [Career Page]<a href=https://saviynt.com/careers/  target="_blank">Career Page</a>
+- **Schlumberger**: [Career Page]<a href=https://www.slb.com/careers  target="_blank">Career Page</a>
+- **Schneider Electric**: [Career Page]<a href=https://careers.se.com/global/jobs  target="_blank">Career Page</a>
+- **Scripbox**: [Career Page]<a href=https://scripbox.com/pages/careers  target="_blank">Career Page</a>
+- **Seagate**: [Career Page]<a href=https://www.seagate.com/in/en/about-us/careers/  target="_blank">Career Page</a>
+- **Securly**: [Career Page]<a href=https://www.securly.com/careers  target="_blank">Career Page</a>
+- **Sennheiser**: [Career Page]<a href=https://www.sennheiser.com/en-in/jobs-and-careers  target="_blank">Career Page</a>
+- **ServiceNow**: [Career Page]<a href=https://www.servicenow.com/careers.html  target="_blank">Career Page</a>
+- **ShareChat**: [Career Page]<a href=https://sharechat.com/careers  target="_blank">Career Page</a>
+- **Shell**: [Career Page]<a href=https://www.shell.in/careers.html  target="_blank">Career Page</a>
+- **Shipsy**: [Career Page]<a href=https://shipsy.io/careers/  target="_blank">Career Page</a>
+- **Shopify**: [Career Page]<a href=https://www.shopify.in/careers  target="_blank">Career Page</a>
+- **Siemens**: [Career Page]<a href=https://new.siemens.com/in/en/company/jobs.html  target="_blank">Career Page</a>
+- **Signify**: [Career Page]<a href=https://www.signify.com/en-in/careers  target="_blank">Career Page</a>
+- **Sigmoid**: [Career Page]<a href=https://www.sigmoid.com/careers/  target="_blank">Career Page</a>
+- **Silicon Valley Bank**: [Career Page]<a href=https://www.svb.com/careers  target="_blank">Career Page</a>
+- **SilverPush**: [Career Page]<a href=https://www.silverpush.co/careers  target="_blank">Career Page</a>
+- **Simplilearn**: [Career Page]<a href=https://www.simplilearn.com/careers  target="_blank">Career Page</a>
+- **Simpl**: [Career Page]<a href=https://getsimpl.com/careers/  target="_blank">Career Page</a>
+- **Sirion Labs**: [Career Page]<a href=https://www.sirionlabs.com/careers/  target="_blank">Career Page</a>
+- **SiSense**: [Career Page]<a href=https://www.sisense.com/company/careers/  target="_blank">Career Page</a>
+- **Sitecore**: [Career Page]<a href=https://www.sitecore.com/company/careers  target="_blank">Career Page</a>
+- **Skedulo**: [Career Page]<a href=https://www.skedulo.com/careers/  target="_blank">Career Page</a>
+- **Skillate**: [Career Page]<a href=https://skillate.com/careers/  target="_blank">Career Page</a>
+- **Skillsoft**: [Career Page]<a href=https://www.skillsoft.com/about/careers  target="_blank">Career Page</a>
+- **Skillz**: [Career Page]<a href=https://www.skillz.com/careers  target="_blank">Career Page</a>
+- **Skylark Drones**: [Career Page]<a href=https://www.skylarkdrones.com/career  target="_blank">Career Page</a>
+- **Slack**: [Career Page]<a href=https://slack.com/careers  target="_blank">Career Page</a>
+- **SlicePay**: [Career Page]<a href=https://slicepay.in/careers/  target="_blank">Career Page</a>
+- **SmartServ**: [Career Page]<a href=https://www.smartserv.io/careers  target="_blank">Career Page</a>
+- **Snap**: [Career Page]<a href=https://www.snap.com/jobs  target="_blank">Career Page</a>
+- **Snowflake**: [Career Page]<a href=https://careers.snowflake.com/us/en  target="_blank">Career Page</a>
+- **Softcell**: [Career Page]<a href=https://www.softcell.com/career/  target="_blank">Career Page</a>
+- **Softdel Systems**: [Career Page]<a href=https://softdel.com/careers/  target="_blank">Career Page</a>
+- **Softura**: [Career Page]<a href=https://www.softura.com/careers/  target="_blank">Career Page</a>
+- **Solugenix**: [Career Page]<a href=https://careers.solugenix.com/  target="_blank">Career Page</a>
+- **Sonder**: [Career Page]<a href=https://www.sonder.com/careers  target="_blank">Career Page</a>
+- **Sony**: [Career Page]<a href=https://www.sony.co.in/microsite/careers/  target="_blank">Career Page</a>
+- **Sophos**: [Career Page]<a href=https://www.sophos.com/en-us/company/careers.aspx  target="_blank">Career Page</a>
+- **Soroco**: [Career Page]<a href=https://soroco.com/careers/  target="_blank">Career Page</a>
+- **SOTI**: [Career Page]<a href=https://www.soti.net/careers/  target="_blank">Career Page</a>
+- **Spectra**: [Career Page]<a href=https://www.spectra.co/careers  target="_blank">Career Page</a>
+- **Spotify**: [Career Page]<a href=https://www.spotifyjobs.com/  target="_blank">Career Page</a>
+- **SpringRole**: [Career Page]<a href=https://www.springrole.com/careers  target="_blank">Career Page</a>
+- **Springworks**: [Career Page]<a href=https://springworks.in/careers/  target="_blank">Career Page</a>
+- **Sprinklr**: [Career Page]<a href=https://www.sprinklr.com/careers  target="_blank">Career Page</a>
+- **Square Yards**: [Career Page]<a href=https://www.squareyards.com/career  target="_blank">Career Page</a>
+- **Square**: [Career Page]<a href=https://squareup.com/careers  target="_blank">Career Page</a>
+- **Srijan**: [Career Page]<a href=https://materialplus.srijan.net/about/careers  target="_blank">Career Page</a>
+- **Srijan Capital**: [Career Page]<a href=https://www.srijancapital.com/careers/  target="_blank">Career Page</a>
+- **Standard Chartered Bank**: [Career Page]<a href=https://www.sc.com/en/careers/  target="_blank">Career Page</a>
+- **Starship Technologies**: [Career Page]<a href=https://www.starship.xyz/careers/  target="_blank">Career Page</a>
+- **Stratbeans Consulting**: [Career Page]<a href=https://stratbeans.com/careers/  target="_blank">Career Page</a>
+- **Stride.ai**: [Career Page]<a href=https://stride.ai/careers/  target="_blank">Career Page</a>
+- **Stridely Solutions**: [Career Page]<a href=https://www.stridelysolutions.com/career  target="_blank">Career Page</a>
+- **Striveworks**: [Career Page]<a href=https://www.striveworks.us/careers/  target="_blank">Career Page</a>
+- **Studytonight**: [Career Page]<a href=https://www.studytonight.com/career/  target="_blank">Career Page</a>
+- **StyleDotMe**: [Career Page]<a href=https://styledotme.com/careers/  target="_blank">Career Page</a>
+- **Sugar Cosmetics**: [Career Page]<a href=https://in.sugarcosmetics.com/careers  target="_blank">Career Page</a>
+- **SunPower**: [Career Page]<a href=https://us.sunpower.com/careers  target="_blank">Career Page</a>
+- **Swiggy**: [Career Page]<a href=https://careers.swiggy.com/  target="_blank">Career Page</a>
+- **Swiss Re**: [Career Page]<a href=https://careers.swissre.com/  target="_blank">Career Page</a>
+- **SymphonyAI**: [Career Page]<a href=https://symphonyai.com/careers/  target="_blank">Career Page</a>
+- **Symphony**: [Career Page]<a href=https://symphony.com/careers/  target="_blank">Career Page</a>
+- **Syncron**: [Career Page]<a href=https://www.syncron.com/company/careers/  target="_blank">Career Page</a>
+- **Systech Solutions**: [Career Page]<a href=https://systechusa.com/career/  target="_blank">Career Page</a>
+- **Systools Software**: [Career Page]<a href=https://www.systoolsgroup.com/careers/  target="_blank">Career Page</a>
+- **Sysvine Technologies**: [Career Page]<a href=https://www.sysvine.com/careers/  target="_blank">Career Page</a>
+- **Systweak Software**: [Career Page]<a href=https://www.systweak.com/careers  target="_blank">Career Page</a>
+- **Syz**: [Career Page]<a href=https://www.syzgroup.com/careers  target="_blank">Career Page</a>
 
 ### T
 
-- **Tact.ai**: [Career Page](https://tact.ai/careers/)
-- **Tally**: [Career Page](https://tallysolutions.com/careers/)
-- **Talview**: [Career Page](https://www.talview.com/careers)
-- **Tata Consultancy Services**: [Career Page](https://www.tcs.com/careers)
-- **Tata Play**: [Career Page](https://www.tataplay.com/dth/careers)
-- **Tavant**: [Career Page](https://www.tavant.com/careers)
-- **Tecnotree**: [Career Page](https://www.tecnotree.com/careers/)
-- **Tech Mahindra**: [Career Page](https://careers.techmahindra.com/)
-- **Telstra**: [Career Page](https://careers.telstra.com/)
-- **Tesco**: [Career Page](https://www.tesco-careers.com/)
-- **Texas Instruments**: [Career Page](https://careers.ti.com/)
-- **TextNow**: [Career Page](https://www.textnow.com/careers)
-- **TextUs**: [Career Page](https://textus.com/careers/)
-- **The Better India**: [Career Page](https://www.thebetterindia.com/careers/)
-- **The MathWorks**: [Career Page](https://www.mathworks.com/company/jobs/opportunities.html)
-- **The Washington Post**: [Career Page](https://www.washingtonpost.com/careers/)
-- **ThoughtSpot**: [Career Page](https://www.thoughtspot.com/careers)
-- **Thrillophilia**: [Career Page](https://www.thrillophilia.com/careers)
-- **TicketNew**: [Career Page](https://www.ticketnew.com/Careers/Index)
-- **Times Internet**: [Career Page](https://timesinternet.in/careers)
-- **Timescale**: [Career Page](https://www.timescale.com/careers)
-- **Times Internet**: [Career Page](https://careers.timesinternet.in/)
-- **Timescale**: [Career Page](https://www.timescale.com/careers)
-- **Tinder**: [Career Page](https://www.gotinder.com/jobs)
-- **Toll Group**: [Career Page](https://www.tollgroup.com/careers)
-- **TomTom**: [Career Page](https://www.tomtom.com/careers)
-- **Tonbo Imaging**: [Career Page](https://tonboimaging.com/main/careers/)
-- **Tonetag**: [Career Page](https://www.tonetag.com/career/)
-- **Toyota**: [Career Page](https://careers.toyota.com/)
-- **Trantor**: [Career Page](https://www.trantorinc.com/careers/)
-- **Traveloka**: [Career Page](https://www.traveloka.com/en/careers)
-- **Trax**: [Career Page](https://www.traxretail.com/careers/)
-- **Tredence**: [Career Page](https://www.tredence.com/careers/)
-- **Tresata**: [Career Page](https://www.tresata.com/careers/)
-- **Tricog Health Services**: [Career Page](https://tricog.com/careers/)
-- **Trimble**: [Career Page](https://www.trimble.com/careers/)
-- **Tricon Infotech**: [Career Page](https://www.triconinfotech.com/careers/)
-- **Tripoto**: [Career Page](https://www.tripoto.com/careers)
-- **Truecaller**: [Career Page](https://www.truecaller.com/careers)
-- **True North**: [Career Page](https://www.truenorthco.in/careers)
-- **Truist**: [Career Page](https://www.truist.com/careers)
-- **Trusona**: [Career Page](https://www.trusona.com/careers/)
-- **Turing**: [Career Page](https://careers.turing.com/)
-- **Twilio**: [Career Page](https://www.twilio.com/company/jobs)
-- **Tyfone**: [Career Page](https://www.tyfone.com/careers/)
-- **Tyroo**: [Career Page](https://tyroo.com/careers/)
+- **Tact.ai**: [Career Page]<a href=https://tact.ai/careers/  target="_blank">Career Page</a>
+- **Tally**: [Career Page]<a href=https://tallysolutions.com/careers/  target="_blank">Career Page</a>
+- **Talview**: [Career Page]<a href=https://www.talview.com/careers  target="_blank">Career Page</a>
+- **Tata Consultancy Services**: [Career Page]<a href=https://www.tcs.com/careers  target="_blank">Career Page</a>
+- **Tata Play**: [Career Page]<a href=https://www.tataplay.com/dth/careers  target="_blank">Career Page</a>
+- **Tavant**: [Career Page]<a href=https://www.tavant.com/careers  target="_blank">Career Page</a>
+- **Tecnotree**: [Career Page]<a href=https://www.tecnotree.com/careers/  target="_blank">Career Page</a>
+- **Tech Mahindra**: [Career Page]<a href=https://careers.techmahindra.com/  target="_blank">Career Page</a>
+- **Telstra**: [Career Page]<a href=https://careers.telstra.com/  target="_blank">Career Page</a>
+- **Tesco**: [Career Page]<a href=https://www.tesco-careers.com/  target="_blank">Career Page</a>
+- **Texas Instruments**: [Career Page]<a href=https://careers.ti.com/  target="_blank">Career Page</a>
+- **TextNow**: [Career Page]<a href=https://www.textnow.com/careers  target="_blank">Career Page</a>
+- **TextUs**: [Career Page]<a href=https://textus.com/careers/  target="_blank">Career Page</a>
+- **The Better India**: [Career Page]<a href=https://www.thebetterindia.com/careers/  target="_blank">Career Page</a>
+- **The MathWorks**: [Career Page]<a href=https://www.mathworks.com/company/jobs/opportunities.html  target="_blank">Career Page</a>
+- **The Washington Post**: [Career Page]<a href=https://www.washingtonpost.com/careers/  target="_blank">Career Page</a>
+- **ThoughtSpot**: [Career Page]<a href=https://www.thoughtspot.com/careers  target="_blank">Career Page</a>
+- **Thrillophilia**: [Career Page]<a href=https://www.thrillophilia.com/careers  target="_blank">Career Page</a>
+- **TicketNew**: [Career Page]<a href=https://www.ticketnew.com/Careers/Index  target="_blank">Career Page</a>
+- **Times Internet**: [Career Page]<a href=https://timesinternet.in/careers  target="_blank">Career Page</a>
+- **Timescale**: [Career Page]<a href=https://www.timescale.com/careers  target="_blank">Career Page</a>
+- **Times Internet**: [Career Page]<a href=https://careers.timesinternet.in/  target="_blank">Career Page</a>
+- **Timescale**: [Career Page]<a href=https://www.timescale.com/careers  target="_blank">Career Page</a>
+- **Tinder**: [Career Page]<a href=https://www.gotinder.com/jobs  target="_blank">Career Page</a>
+- **Toll Group**: [Career Page]<a href=https://www.tollgroup.com/careers  target="_blank">Career Page</a>
+- **TomTom**: [Career Page]<a href=https://www.tomtom.com/careers  target="_blank">Career Page</a>
+- **Tonbo Imaging**: [Career Page]<a href=https://tonboimaging.com/main/careers/  target="_blank">Career Page</a>
+- **Tonetag**: [Career Page]<a href=https://www.tonetag.com/career/  target="_blank">Career Page</a>
+- **Toyota**: [Career Page]<a href=https://careers.toyota.com/  target="_blank">Career Page</a>
+- **Trantor**: [Career Page]<a href=https://www.trantorinc.com/careers/  target="_blank">Career Page</a>
+- **Traveloka**: [Career Page]<a href=https://www.traveloka.com/en/careers  target="_blank">Career Page</a>
+- **Trax**: [Career Page]<a href=https://www.traxretail.com/careers/  target="_blank">Career Page</a>
+- **Tredence**: [Career Page]<a href=https://www.tredence.com/careers/  target="_blank">Career Page</a>
+- **Tresata**: [Career Page]<a href=https://www.tresata.com/careers/  target="_blank">Career Page</a>
+- **Tricog Health Services**: [Career Page]<a href=https://tricog.com/careers/  target="_blank">Career Page</a>
+- **Trimble**: [Career Page]<a href=https://www.trimble.com/careers/  target="_blank">Career Page</a>
+- **Tricon Infotech**: [Career Page]<a href=https://www.triconinfotech.com/careers/  target="_blank">Career Page</a>
+- **Tripoto**: [Career Page]<a href=https://www.tripoto.com/careers  target="_blank">Career Page</a>
+- **Truecaller**: [Career Page]<a href=https://www.truecaller.com/careers  target="_blank">Career Page</a>
+- **True North**: [Career Page]<a href=https://www.truenorthco.in/careers  target="_blank">Career Page</a>
+- **Truist**: [Career Page]<a href=https://www.truist.com/careers  target="_blank">Career Page</a>
+- **Trusona**: [Career Page]<a href=https://www.trusona.com/careers/  target="_blank">Career Page</a>
+- **Turing**: [Career Page]<a href=https://careers.turing.com/  target="_blank">Career Page</a>
+- **Twilio**: [Career Page]<a href=https://www.twilio.com/company/jobs  target="_blank">Career Page</a>
+- **Tyfone**: [Career Page]<a href=https://www.tyfone.com/careers/  target="_blank">Career Page</a>
+- **Tyroo**: [Career Page]<a href=https://tyroo.com/careers/  target="_blank">Career Page</a>
 
 ### U
 
-- **Uber**: [Career Page](https://www.uber.com/in/en/careers/)
-- **Udaan**: [Career Page](https://careers.udaan.com/)
-- **UiPath**: [Career Page](https://www.uipath.com/company/careers)
-- **Unilever**: [Career Page](https://www.unilever.com/careers/)
-- **Uniphore**: [Career Page](https://www.uniphore.com/careers/)
-- **Unisys**: [Career Page](https://www.unisys.com/careers)
-- **United Health Group**: [Career Page](https://careers.unitedhealthgroup.com/job-search-results/)
-- **Unity Technologies**: [Career Page](https://careers.unity.com/)
-- **Unschool**: [Career Page](https://www.unschool.in/work-with-us/)
-- **UpGrad**: [Career Page](https://www.upgrad.com/careers/)
-- **Upstox**: [Career Page](https://upstox.com/careers/)
-- **Urban Company**: [Career Page](https://www.urbancompany.com/careers)
-- **Urban Ladder**: [Career Page](https://www.urbanladder.com/careers)
-- **UrbanPiper**: [Career Page](https://urbanpiper.darwinbox.in/ms/candidate/careers)
+- **Uber**: [Career Page]<a href=https://www.uber.com/in/en/careers/  target="_blank">Career Page</a>
+- **Udaan**: [Career Page]<a href=https://careers.udaan.com/  target="_blank">Career Page</a>
+- **UiPath**: [Career Page]<a href=https://www.uipath.com/company/careers  target="_blank">Career Page</a>
+- **Unilever**: [Career Page]<a href=https://www.unilever.com/careers/  target="_blank">Career Page</a>
+- **Uniphore**: [Career Page]<a href=https://www.uniphore.com/careers/  target="_blank">Career Page</a>
+- **Unisys**: [Career Page]<a href=https://www.unisys.com/careers  target="_blank">Career Page</a>
+- **United Health Group**: [Career Page]<a href=https://careers.unitedhealthgroup.com/job-search-results/  target="_blank">Career Page</a>
+- **Unity Technologies**: [Career Page]<a href=https://careers.unity.com/  target="_blank">Career Page</a>
+- **Unschool**: [Career Page]<a href=https://www.unschool.in/work-with-us/  target="_blank">Career Page</a>
+- **UpGrad**: [Career Page]<a href=https://www.upgrad.com/careers/  target="_blank">Career Page</a>
+- **Upstox**: [Career Page]<a href=https://upstox.com/careers/  target="_blank">Career Page</a>
+- **Urban Company**: [Career Page]<a href=https://www.urbancompany.com/careers  target="_blank">Career Page</a>
+- **Urban Ladder**: [Career Page]<a href=https://www.urbanladder.com/careers  target="_blank">Career Page</a>
+- **UrbanPiper**: [Career Page]<a href=https://urbanpiper.darwinbox.in/ms/candidate/careers  target="_blank">Career Page</a>
 
 ### V
 
-- **Vakilsearch**: [Career Page](https://vakilsearch.com/careers/)
-- **ValueLabs**: [Career Page](https://careers.valuelabs.com/)
-- **Vantage Circle**: [Career Page](https://www.vantagecircle.com/careers/)
-- **Vedantu**: [Career Page](https://www.vedantu.com/careers)
-- **Vehant Technologies**: [Career Page](https://www.vehant.com/careers/)
-- **Verificient Technologies**: [Career Page](https://www.verificient.com/careers/)
-- **Verizon**: [Career Page](https://www.verizon.com/about/careers)
-- **Verloop**: [Career Page](https://verloop.io/careers-opportunities/)
-- **Vestas**: [Career Page](https://careers.vestas.com/)
-- **Vestige Marketing**: [Career Page](https://www.myvestige.com/current-openings.aspx)
-- **Via**: [Career Page](https://ph.via.com/_about?type=Careers)
-- **Vianai Systems**: [Career Page](https://vianai-systems.breezy.hr/)
-- **Vi**: [Career Page](https://www.myvi.in/careers)
-- **Vidhema Technologies**: [Career Page](https://www.vidhema.com/careers/)
-- **Vidhema Technologies**: [Career Page](https://www.vidhema.com/careers/)
-- **Vidooly**: [Career Page](https://vidooly.com/careers)
-- **Vi**: [Career Page](https://www.myvi.in/careers)
-- **Viewpoint**: [Career Page](https://www.viewpoint.com/en-gb/company/careers?redirected=y)
-- **Vimeo**: [Career Page](https://vimeo.com/jobs)
-- **Virsec**: [Career Page](https://www.virsec.com/careers/)
-- **Virtusa**: [Career Page](https://www.virtusa.com/careers)
-- **Visa**: [Career Page](https://www.visa.co.in/careers.html)
-- **Volvo**: [Career Page](https://jobs.volvogroup.com/?locale=en_US)
-- **Vymo**: [Career Page](https://www.getvymo.com/careers/)
+- **Vakilsearch**: [Career Page]<a href=https://vakilsearch.com/careers/  target="_blank">Career Page</a>
+- **ValueLabs**: [Career Page]<a href=https://careers.valuelabs.com/  target="_blank">Career Page</a>
+- **Vantage Circle**: [Career Page]<a href=https://www.vantagecircle.com/careers/  target="_blank">Career Page</a>
+- **Vedantu**: [Career Page]<a href=https://www.vedantu.com/careers  target="_blank">Career Page</a>
+- **Vehant Technologies**: [Career Page]<a href=https://www.vehant.com/careers/  target="_blank">Career Page</a>
+- **Verificient Technologies**: [Career Page]<a href=https://www.verificient.com/careers/  target="_blank">Career Page</a>
+- **Verizon**: [Career Page]<a href=https://www.verizon.com/about/careers  target="_blank">Career Page</a>
+- **Verloop**: [Career Page]<a href=https://verloop.io/careers-opportunities/  target="_blank">Career Page</a>
+- **Vestas**: [Career Page]<a href=https://careers.vestas.com/  target="_blank">Career Page</a>
+- **Vestige Marketing**: [Career Page]<a href=https://www.myvestige.com/current-openings.aspx  target="_blank">Career Page</a>
+- **Via**: [Career Page]<a href=https://ph.via.com/_about?type=Careers  target="_blank">Career Page</a>
+- **Vianai Systems**: [Career Page]<a href=https://vianai-systems.breezy.hr/  target="_blank">Career Page</a>
+- **Vi**: [Career Page]<a href=https://www.myvi.in/careers  target="_blank">Career Page</a>
+- **Vidhema Technologies**: [Career Page]<a href=https://www.vidhema.com/careers/  target="_blank">Career Page</a>
+- **Vidhema Technologies**: [Career Page]<a href=https://www.vidhema.com/careers/  target="_blank">Career Page</a>
+- **Vidooly**: [Career Page]<a href=https://vidooly.com/careers  target="_blank">Career Page</a>
+- **Vi**: [Career Page]<a href=https://www.myvi.in/careers  target="_blank">Career Page</a>
+- **Viewpoint**: [Career Page]<a href=https://www.viewpoint.com/en-gb/company/careers?redirected=y  target="_blank">Career Page</a>
+- **Vimeo**: [Career Page]<a href=https://vimeo.com/jobs  target="_blank">Career Page</a>
+- **Virsec**: [Career Page]<a href=https://www.virsec.com/careers/  target="_blank">Career Page</a>
+- **Virtusa**: [Career Page]<a href=https://www.virtusa.com/careers  target="_blank">Career Page</a>
+- **Visa**: [Career Page]<a href=https://www.visa.co.in/careers.html  target="_blank">Career Page</a>
+- **Volvo**: [Career Page]<a href=https://jobs.volvogroup.com/?locale=en_US  target="_blank">Career Page</a>
+- **Vymo**: [Career Page]<a href=https://www.getvymo.com/careers/  target="_blank">Career Page</a>
 
 ### W
 
-- **Wadhwani AI**: [Career Page](https://wadhwaniai.org/careers/)
-- **Wadhwani Foundation**: [Career Page](https://www.wfglobal.org/careers/)
-- **Walmart Labs**: [Career Page](https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html)
-- **Wappier**: [Career Page](https://wappier.com/join-us/)
-- **Wave**: [Career Page](https://www.wave.com/careers)
-- **Wayfair**: [Career Page](https://www.wayfair.com/careers)
-- **Wealthbox**: [Career Page](https://www.wealthbox.com/careers/)
-- **WealthEngine**: [Career Page](https://www.wealthengine.com/careers)
-- **Wealthy**: [Career Page](https://wealthy.in/careers)
-- **Westpac Group**: [Career Page](https://www.westpac.com.au/about-westpac/careers/?fid=GL:GF:GF1:wbc:www:about:careers)
-- **Whatfix**: [Career Page](https://whatfix.com/careers/)
-- **Wingify**: [Career Page](https://wingify.com/careers)
-- **Winjit Technologies**: [Career Page](https://www.winjit.com/careers/)
-- **Wipro**: [Career Page](https://careers.wipro.com/)
-- **WNS**: [Career Page](https://www.wns.com/careers)
-- **WorkIndia**: [Career Page](https://workindia.keka.com/careers/)
-- **World Resources Institute**: [Career Page](https://www.wri.org/careers)
+- **Wadhwani AI**: [Career Page]<a href=https://wadhwaniai.org/careers/  target="_blank">Career Page</a>
+- **Wadhwani Foundation**: [Career Page]<a href=https://www.wfglobal.org/careers/  target="_blank">Career Page</a>
+- **Walmart Labs**: [Career Page]<a href=https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html  target="_blank">Career Page</a>
+- **Wappier**: [Career Page]<a href=https://wappier.com/join-us/  target="_blank">Career Page</a>
+- **Wave**: [Career Page]<a href=https://www.wave.com/careers  target="_blank">Career Page</a>
+- **Wayfair**: [Career Page]<a href=https://www.wayfair.com/careers  target="_blank">Career Page</a>
+- **Wealthbox**: [Career Page]<a href=https://www.wealthbox.com/careers/  target="_blank">Career Page</a>
+- **WealthEngine**: [Career Page]<a href=https://www.wealthengine.com/careers  target="_blank">Career Page</a>
+- **Wealthy**: [Career Page]<a href=https://wealthy.in/careers  target="_blank">Career Page</a>
+- **Westpac Group**: [Career Page]<a href=https://www.westpac.com.au/about-westpac/careers/?fid=GL:GF:GF1:wbc:www:about:careers  target="_blank">Career Page</a>
+- **Whatfix**: [Career Page]<a href=https://whatfix.com/careers/  target="_blank">Career Page</a>
+- **Wingify**: [Career Page]<a href=https://wingify.com/careers  target="_blank">Career Page</a>
+- **Winjit Technologies**: [Career Page]<a href=https://www.winjit.com/careers/  target="_blank">Career Page</a>
+- **Wipro**: [Career Page]<a href=https://careers.wipro.com/  target="_blank">Career Page</a>
+- **WNS**: [Career Page]<a href=https://www.wns.com/careers  target="_blank">Career Page</a>
+- **WorkIndia**: [Career Page]<a href=https://workindia.keka.com/careers/  target="_blank">Career Page</a>
+- **World Resources Institute**: [Career Page]<a href=https://www.wri.org/careers  target="_blank">Career Page</a>
 
 ### X
 
-- **Xactly Corporation**: [Career Page](https://www.xactlycorp.com/company/careers/)
-- **Xebia**: [Career Page](https://www.xebia.com/careers/)
-- **Xiaomi**: [Career Page](https://in.event.mi.com/in/careers)
-- **Xoxoday**: [Career Page](https://www.xoxoday.com/careers)
-- **XP Power**: [Career Page](https://www.xppower.com/careers/)
-- **Xpheno**: [Career Page](https://www.xpheno.com/careers/)
-- **Xpressbees**: [Career Page](https://www.xpressbees.com/Career)
-- **Xseed Education**: [Career Page](https://xseededucation.com/careers-at-xseed/)
+- **Xactly Corporation**: [Career Page]<a href=https://www.xactlycorp.com/company/careers/  target="_blank">Career Page</a>
+- **Xebia**: [Career Page]<a href=https://www.xebia.com/careers/  target="_blank">Career Page</a>
+- **Xiaomi**: [Career Page]<a href=https://in.event.mi.com/in/careers  target="_blank">Career Page</a>
+- **Xoxoday**: [Career Page]<a href=https://www.xoxoday.com/careers  target="_blank">Career Page</a>
+- **XP Power**: [Career Page]<a href=https://www.xppower.com/careers/  target="_blank">Career Page</a>
+- **Xpheno**: [Career Page]<a href=https://www.xpheno.com/careers/  target="_blank">Career Page</a>
+- **Xpressbees**: [Career Page]<a href=https://www.xpressbees.com/Career  target="_blank">Career Page</a>
+- **Xseed Education**: [Career Page]<a href=https://xseededucation.com/careers-at-xseed/  target="_blank">Career Page</a>
 
 ### Y
 
-- **Yatra**: [Career Page](https://www.yatra.com/career/job-portal)
-- **Yellow ai**: [Career Page](https://old.yellow.ai/career/)
-- **Yodlee**: [Career Page](https://www.yodlee.com/company/careers)
-- **Yoodle**: [Career Page](https://yoodle.com/careers/)
-- **Yulu**: [Career Page](https://www.yulu.bike/careers)
-- **Yum! Brands**: [Career Page](https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/work-with-us)
+- **Yatra**: [Career Page]<a href=https://www.yatra.com/career/job-portal  target="_blank">Career Page</a>
+- **Yellow ai**: [Career Page]<a href=https://old.yellow.ai/career/  target="_blank">Career Page</a>
+- **Yodlee**: [Career Page]<a href=https://www.yodlee.com/company/careers  target="_blank">Career Page</a>
+- **Yoodle**: [Career Page]<a href=https://yoodle.com/careers/  target="_blank">Career Page</a>
+- **Yulu**: [Career Page]<a href=https://www.yulu.bike/careers  target="_blank">Career Page</a>
+- **Yum! Brands**: [Career Page]<a href=https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/work-with-us  target="_blank">Career Page</a>
 
 ### Z
 
-- **Zebra Technologies**: [Career Page](https://www.zebra.com/us/en/about-zebra/careers.html)
-- **Zenoti**: [Career Page](https://www.zenoti.com/careers)
-- **Zenq**: [Career Page](https://zenq.com/careers)
-- **Zensar Technologies**: [Career Page](https://www.zensar.com/careers)
-- **ZestMoney**: [Career Page](https://www.zestmoney.in/career)
-- **Zeta**: [Career Page](https://www.zeta.tech/us/careers/)
-- **Zetwerk**: [Career Page](https://zetwerk.com/careers/)
-- **Zimyo**: [Career Page](https://www.zimyo.com/about/career/)
-- **ZingHR**: [Career Page](https://www.zinghr.com/job-openings/)
-- **Zoho**: [Career Page](https://careers.zohocorp.com/)
-- **Zomato**: [Career Page](https://www.zomato.com/careers)
-- **Zoomcar**: [Career Page](https://www.zoomcar.com/careers)
-- **ZoomRx**: [Career Page](https://zoomrx.com/careers/)
-- **Zoom Video Communications**: [Career Page](https://zoom.us/careers)
-- **ZoomRx**: [Career Page](https://zoomrx.com/careers/)
-- **Zoomcar**: [Career Page](https://www.zoomcar.com/careers)
-- **Zuora**: [Career Page](https://www.zuora.com/about/careers/)
-- **Zup**: [Career Page](https://www.zup.com.br/carreiras)
-- **Zynga**: [Career Page](https://www.zynga.com/careers)
+- **Zebra Technologies**: [Career Page]<a href=https://www.zebra.com/us/en/about-zebra/careers.html  target="_blank">Career Page</a>
+- **Zenoti**: [Career Page]<a href=https://www.zenoti.com/careers  target="_blank">Career Page</a>
+- **Zenq**: [Career Page]<a href=https://zenq.com/careers  target="_blank">Career Page</a>
+- **Zensar Technologies**: [Career Page]<a href=https://www.zensar.com/careers  target="_blank">Career Page</a>
+- **ZestMoney**: [Career Page]<a href=https://www.zestmoney.in/career  target="_blank">Career Page</a>
+- **Zeta**: [Career Page]<a href=https://www.zeta.tech/us/careers/  target="_blank">Career Page</a>
+- **Zetwerk**: [Career Page]<a href=https://zetwerk.com/careers/  target="_blank">Career Page</a>
+- **Zimyo**: [Career Page]<a href=https://www.zimyo.com/about/career/  target="_blank">Career Page</a>
+- **ZingHR**: [Career Page]<a href=https://www.zinghr.com/job-openings/  target="_blank">Career Page</a>
+- **Zoho**: [Career Page]<a href=https://careers.zohocorp.com/  target="_blank">Career Page</a>
+- **Zomato**: [Career Page]<a href=https://www.zomato.com/careers  target="_blank">Career Page</a>
+- **Zoomcar**: [Career Page]<a href=https://www.zoomcar.com/careers  target="_blank">Career Page</a>
+- **ZoomRx**: [Career Page]<a href=https://zoomrx.com/careers/  target="_blank">Career Page</a>
+- **Zoom Video Communications**: [Career Page]<a href=https://zoom.us/careers  target="_blank">Career Page</a>
+- **ZoomRx**: [Career Page]<a href=https://zoomrx.com/careers/  target="_blank">Career Page</a>
+- **Zoomcar**: [Career Page]<a href=https://www.zoomcar.com/careers  target="_blank">Career Page</a>
+- **Zuora**: [Career Page]<a href=https://www.zuora.com/about/careers/  target="_blank">Career Page</a>
+- **Zup**: [Career Page]<a href=https://www.zup.com.br/carreiras  target="_blank">Career Page</a>
+- **Zynga**: [Career Page]<a href=https://www.zynga.com/careers  target="_blank">Career Page</a>
